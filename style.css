@@ -1,0 +1,107 @@
+/* CSS files add styling rules to your content */
+
+body {
+  scrollbar-face-color: #33CC00;
+  scrollbar-shadow-color: #006600;
+  scrollbar-highlight-color: #66FF33;
+  scrollbar-3dlight-color: #66FF33;
+  scrollbar-darkshadow-color: #66CC33;
+  scrollbar-track-color: #66FF00;
+  scrollbar-arrow-color: #CCFF99;
+}
+
+body,
+p,
+td,
+div {
+  color: black;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 17px;
+}
+
+a {
+  text-decoration: none;
+  color: #33CC00;
+
+  font-weight: plain;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #66CC00;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #CCFF99;
+}
+
+.cute-background {
+  background-image: url(https://cdn.glitch.com/63c3694b-7cdb-48f0-a16c-f74e60c77df0%2Fgbg.gif?v=1562719068658);
+}
+
+.cute-container {
+  background-color: white;
+  border: solid 2px #33CC00;
+  margin: 1em auto;
+  padding:1em;
+  max-width: 558px;
+}
+
+.header {
+  text-align: center;
+}
+
+.menu a {
+  border-radius: 5px;
+  background-color: #66CC00;
+  font-family: comic sans ms;
+  color: #ffffff;
+}
+
+.menu a:hover {
+  background-color: #4d9900;
+}
+
+.menu ul {
+  background-color: #66CC00;
+  font-family: comic sans ms;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.content {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+
+.updates-box {
+  border: 1px solid #66CC00;
+  width:200px;
+
+  margin: 0 auto;
+}
+
+.center {
+    text-align:center;
+}
+
+.updates-box-inner {
+  margin: 2px;
+  border: 1px solid #66CC00;
+  padding: 5px;
+}
+
+aside {
+  border: 1px solid rgb(9, 19, 43, 0.2);
+  margin: 1.75rem;
+  background: rgb(9, 19, 43, 0.2);
+  border-left: 4px solid rgb(9, 19, 43, 0.7);
+  padding: 0.01rem 0.8rem;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}

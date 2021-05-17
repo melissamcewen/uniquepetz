@@ -15,7 +15,7 @@ p,
 td,
 div {
   color: black;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;
   font-size: 17px;
 }
 
@@ -104,4 +104,8 @@ aside {
 .responsive {
   max-width: 100%;
   height: auto;
+}
+
+h4 {
+  color: green;
 }

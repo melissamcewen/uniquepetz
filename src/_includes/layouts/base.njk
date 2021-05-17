@@ -5,53 +5,40 @@
     <link rel="icon" href="https://glitch.com/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="A Petz Site"/>
-    <link rel="stylesheet" type="text/css" href="/public/atri.css"/>
     <link rel="stylesheet" type="text/css" href="/public/style.css"/>
     {% seo "" %}
   </head>
   <body>
     <header>
       <nav>
-        <header>
-          <a href="/">Unique Petz</a>
-          <label for="nav">
-            <i class="fas fa-bars"></i>
-          </label>
-        </header>
-        <input type="checkbox" id="nav" hidden checked>
-        <div overflow>
-          <ul>
-            <!--active link in navbar with active attribute-->
-            <li>
-              <a href="/petz">Petz 101</a>
-            </li>
-            <li>
-              <a href="/vm-tips">Petz on Mac</a>
-            </li>
-            <li>
-              <a href="/hexed-breeds">Hexed Breeds</a>
-            </li>
-            <li>
-              <a href="/selective">Selective Breeds</a>
-            </li>
-            <li>Lab:
-            </li>
-            <li></li>
-            <li>
-              <a href="/minis">Minis</a>
-            </li>
-            <li>
-              <a href="/swap">Face Swaps</a>
-            </li>
-          </ul>
-        </div>
+        <a href="/"><img src="/public/title.gif" alt="Unique Petz Logo"></a>
+        <ul>
+          <li>
+            <a href="/petz">Petz 101</a>
+          </li>
+          <li>
+            <a href="/vm-tips">Petz on Mac</a>
+          </li>
+          <li>
+            <a href="/hexed-breeds">Hexed Breeds</a>
+          </li>
+          <li>
+            <a href="/selective">Selective Breeds</a>
+          </li>
+          <li>Science Lab:
+          </li>
+          <li></li>
+          <li>
+            <a href="/minis">Minis</a>
+          </li>
+          <li>
+            <a href="/swap">Face Swaps</a>
+          </li>
+        </ul>
       </nav>
     </header>
     <main>
-      <section container>
-        <img src="/public/gtop.gif">
-        {{ content | safe }}
-      </section>
+      {{ content | safe }}
     </main>
   </body>
 </html></body></html>

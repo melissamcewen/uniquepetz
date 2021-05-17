@@ -7,6 +7,8 @@ const menuLinks = [
    ["Original site", "/original-index.html"],
      ["Minis", "/minis.html"],
        ["How To Play Petz", "/petz.html"],
+         ["Face/personality swap", "/swap.html"],
+           ["Downloads (breeds, etc.)", "/downloads.html"],
 ]
 
 

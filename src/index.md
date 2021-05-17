@@ -2,6 +2,8 @@
 layout: layouts/page.njk
 ---
 
+![Unique Petz](/public/gtop.gif)
+
 # Unique Petz
 
 Welcome! This is a site about the Petz games created by P.F. Magic in

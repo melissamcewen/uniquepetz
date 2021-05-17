@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="https://glitch.com/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A Petz Site"/>
+    <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    {% seo "" %}
+  </head>
+  <body>
+    <div class="layout-wrapper">
+      <img src="/public/gtop.gif">
+      <div class="layout">
+        <nav>
+          <ul>
+            <li>Downloads
+              <ul>
+                <li><a href="/hexed-breeds">Hexed Breeds</a></li>
+                <li><a href="/selective-breeds">Selective Breeds</a></li>
+              </ul>
+            </li>
+            <li>Guides
+              <ul>
+                <li>
+                  <a href="/petz">Guide for new and returning players</a>
+                </li>
+                <li></li>
+              </ul>
+            </li>
+            <li>The Lab
+            </li>
+          </ul>
+        </nav>
+        <main>
+          {{ content | safe }}
+        </main>
+      </div>
+    </div>
+  </body>
+</html></body></html>

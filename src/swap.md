@@ -8,13 +8,25 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 ## Dogz
 
+### Bulldog (144) Face
+#### Chihuahua (100) Personality
+![Helga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhelga.png?v=1621292314611)
+
+[Helga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FHelga.pet?v=1621292291030)
+
 ### Dachshund (120) Face
 
-#### Bulldog Personality
+#### Bulldog (144) Personality
 
 ![Olga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Folga.png?v=1620692478719)
 
 [Olga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOlga.pet?v=1620692494014)
+
+
+#### Mutt (145) Personality
+![Fifel](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffifel.png?v=1621290673243)
+
+[Fifel](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFifel.pet?v=1621290713242)
 
 ### Dalmatian (150) Face
 
@@ -24,23 +36,30 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Bertha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBertha.pet?v=1620692545824)
 
-### Labrador Face
+### Great Dane (157) Face
 
-#### Chihuahua Personality
+#### Sheepdog (150) Personality
+![Snickerdoogle](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsnickerdoodle.png?v=1621291659149)
+
+[Snickerdoodle](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSnickerdoodle.pet?v=1621291648874)
+
+### Labrador (150) Face
+
+#### Chihuahua (100) Personality
 
 ![Joha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjoha.png?v=1621052194829)
 
 [Joha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJoha.pet?v=1621052186140)
 
-### Scottie Face
+### Scottie (135) Face
 
-#### Poodle Personality
+#### Poodle (112, 138) Personality
 
 ![Sophia](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsophiabenson.png?v=1620794378852)
 
 [Sophia Benson](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSophia%20Benson.pet?v=1620794382607)
 
-### Sheepdog Face
+### Sheepdog (150) Face
 
 #### Dachshund Personality
 
@@ -68,16 +87,6 @@ Coming soon!
 
 [Needy](hhttps://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fneedy.png?v=1620590634743)
 
-#### Persian personality (102)
-
-Coming soon!
-
-#### Not possible in Petz 4 because of same scales (110)
-
-- B+W Shorthair personality (110)
-- Calico personality(110)
-- Russian Blue personality (110)
-- Siamese personality (110)
 
 ### B+W Shorthair (110) Face
 
@@ -87,66 +96,10 @@ Coming soon!
 
 [Boxer](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBoxer.pet?v=1620941368566)
 
-### Calico (110) Face
-
-Coming soon
-
-### Chinchilla Persian (90) Face
-
-Coming soon
-
-### Maine Coon (114) Face
-
-Coming soon
 
 ### Orange Shorthair (102) Face
-
-#### Alley (110) Personality
-
-Coming soon
-
-#### B+W Shorthair (110) Personality
-
-Coming soon
-
 #### Calico (110) Personality
 
 ![Happy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhappy.png?v=1620590994993)
 
 [Happy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FHappy.pet?v=1620591020425)
-
-#### Chinchilla (90) Personality
-
-Coming soon
-
-#### Maine Coon (114) Personality
-
-Coming soon
-
-#### Russian Blue (110) Personality
-
-Coming soon
-
-#### Siamese (110) Personality
-
-Coming soon
-
-#### Tabby (110) Personality
-
-Coming soon
-
-### Persian (102) Face
-
-Coming soon
-
-### Russian Blue (102) Face
-
-Coming soon
-
-### Siamese (110) Face
-
-Coming soon
-
-### Tabby (110) Face
-
-Coming soon

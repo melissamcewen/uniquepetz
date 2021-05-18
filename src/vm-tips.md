@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Guide- How to get Petz 4 running on a modern Mac
 ---
 
 # How to get Petz 4 running on a modern Mac

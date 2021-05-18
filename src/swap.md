@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Mad Science- Naturally-bred Personality Swap Petz
 ---
 
 # Naturally-bred Personality Swap Petz

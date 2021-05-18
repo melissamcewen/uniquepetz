@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Mad Science- Naturally Bred Mini Petz
 ---
 
 # Minis

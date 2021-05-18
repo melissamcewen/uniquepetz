@@ -1,8 +1,6 @@
 ---
-layout: layouts/page.njk
+layout: layouts/home.njk
 ---
-
-![Unique Petz](/public/gtop.gif)
 
 # Unique Petz
 

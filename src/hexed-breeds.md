@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Downloads- Hexed Breeds
 ---
 
   <h2>

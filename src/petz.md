@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Guide- How to play Petz in 2021 for returning or new players
 ---
 
 # Guide: How to play Petz in 2021 for returning or new players

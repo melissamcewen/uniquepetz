@@ -1,5 +1,7 @@
 ---
 layout: layouts/page.njk
+tags: pages
+title: Downloads- Selective Breeds
 ---
 
 ## Selective Breeds

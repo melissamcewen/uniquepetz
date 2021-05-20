@@ -16,6 +16,8 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Helga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FHelga.pet?v=1621292291030)
 
+<hr>
+
 ### Dachshund (120) Face
 
 #### Bulldog (144) Personality
@@ -30,6 +32,14 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Fifel](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFifel.pet?v=1621290713242)
 
+
+#### Scottie Personality
+![Audubon](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz1.png?v=1621479729954)
+
+[Audubon](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAudubon.pet?v=1621479745706)
+
+<hr>
+
 ### Dalmatian (150) Face
 
 #### Bulldog (144) Personality
@@ -38,12 +48,33 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Bertha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBertha.pet?v=1620692545824)
 
+
+#### Dachshund Personality
+![Heckin Chonkers](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz202.png?v=1621536742347)
+
+[Heckin Chonkers](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FHeckinChonkers.pet?v=1621536757722)
+
+<hr>
+
 ### Great Dane (157) Face
+
+#### Dalmatian Personality
+![Dosi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdosi.png?v=1621484562810)
+
+[Dosi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FDosi.pet?v=1621484591956)
+
+
+#### Poodle Personality
+![Pretty](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpretty2.png?v=1621485185779)
+
+[Pretty](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FPretty.pet?v=1621485209774)
 
 #### Sheepdog (150) Personality
 ![Snickerdoogle](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsnickerdoodle.png?v=1621291659149)
 
 [Snickerdoodle](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSnickerdoodle.pet?v=1621291648874)
+
+<hr>
 
 ### Labrador (150) Face
 
@@ -53,13 +84,37 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Joha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJoha.pet?v=1621052186140)
 
+
+#### Scottie Personality
+
+![Snickerdoodles](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsnickerdoodles.png?v=1621486962727)
+
+[Snickerdoodles](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSnickerdoodles.pet?v=1621486984147)
+
+
+<hr>
+
 ### Scottie (135) Face
+
+#### Great Dane Personality
+
+![Jumpy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjumpy.png?v=1621484682027)
+
+[Jumpy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJumpy.pet?v=1621484676795)
 
 #### Poodle (112, 138) Personality
 
 ![Sophia](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsophiabenson.png?v=1620794378852)
 
 [Sophia Benson](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSophia%20Benson.pet?v=1620794382607)
+
+#### Sheepdog Personality
+
+![Clown Shoes](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz2.png?v=1621480124273)
+
+[Clown Shoes](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FClown%20Shoes.pet?v=1621480137939)
+
+<hr>
 
 ### Sheepdog (150) Face
 
@@ -69,13 +124,11 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Dasheep](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdasheep.pet?v=1621052182662)
 
+<hr>
+
 ## Catz
 
 ### Alley Cat (110) Face
-
-#### Chinchilla Persian personality (90)
-
-Coming soon!
 
 #### Maine Coon personality (114)
 
@@ -89,6 +142,7 @@ Coming soon!
 
 [Needy](hhttps://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fneedy.png?v=1620590634743)
 
+<hr>
 
 ### B+W Shorthair (110) Face
 
@@ -98,6 +152,7 @@ Coming soon!
 
 [Boxer](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBoxer.pet?v=1620941368566)
 
+<hr>
 
 ### Orange Shorthair (102) Face
 #### Calico (110) Personality

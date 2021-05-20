@@ -13,3 +13,13 @@ header a {
   align-items: center;
   justify-content: center;
 }
+
+
+aside {
+  border: 1px solid rgb(9, 19, 43, 0.2);
+  margin: 1.75rem;
+  background: rgb(9, 19, 43, 0.2);
+  border-left: 4px solid rgb(9, 19, 43, 0.7);
+  padding: 0.01rem 0.8rem;
+}
+

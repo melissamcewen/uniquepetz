@@ -6,7 +6,18 @@ title: Downloads- Selective Breeds
 
 ## Selective Breeds
 
-These files are Petz 4\. Do whatever you'd like with them :)
+These files are Petz 4. Do whatever you'd like with them :)
+
+### Italian Greyhoundish (2021)
+I thought it might be fun to try to replicate IRL breeds with the original PF Magic breeds using selective breeding. This is what I came up for with "Italian Greyhound". Dachie head, bulldog ears, dali body/coat, great dane legs/feet/tail. They should breed true but watch out for random mutations that might cause bicolors to show up due to random mutations + daschie head. I used some of [Vickie's original Italian Greyhound breed](https://web.archive.org/web/20011212080032fw_/http://www.geocities.com/gaealunavenus2/) as a foundation. Vickie was a Petz hexer/selective breeder and her guides taught me so much back in the 00s.
+
+![Italian Greyhoundish](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhounds3.png?v=1621551319012)
+
+- [Anita.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAnita.pet?v=1621551375683)
+- [Alfredo.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAlfredo.pet?v=1621551381731)
+- [Antonio.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAntonio.pet?v=1621551384830)
+- [Alonzo.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAlanzo.pet?v=1621551378384)
+
 
 ### Unfancy Poodles (2021)
 

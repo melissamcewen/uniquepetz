@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 tags: pages
+permalink: "petz.html"
 title: Guide- How to play Petz in 2021 for returning or new players
 ---
 

@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 tags: pages
 permalink: "petz.html"
+category: guides
 title: Guide- How to play Petz in 2021 for returning or new players
 ---
 
@@ -45,6 +46,15 @@ That same fan, Nicholas Sherlock, also created a bunch of other incredible tools
 - [Lnz Pro](https://www.sherlocksoftware.org/page.php?id=14): a special editor for Petz files
 
 Being a programmer, I'm most excited by Lnz Pro, which allows me to tinker with some weird stuff waaaayy more easily than in the past, where you had to use a hex editor. The funnest thing I discovered lately is [SCP swapping](https://petzforum.proboards.com/thread/3255/scp-swapping-visual-tutorial) which means swapping personalities from different breeds.
+
+## Any other essentials for playings Petz 4?
+
+I highly recommend using some overwriting breedfiles that fix some subtle annoyances in the game but don't alter it substantially.
+
+- [Sheepdog with Fixed Eyesize (Breeding Overwrite)](https://cargo-petz.neocities.org/downloads-dogz.html)
+- [Fixed Eyes Russian Blue](http://jewellz.net/)- under downloads
+
+
 
 ## What else is new?
 

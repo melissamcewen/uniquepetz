@@ -13,8 +13,21 @@
     <header>
       <a href="/"><img src="/public/petz36.png" alt="Unique Petz Logo"><h1>Unique Petz</h1></a>
     </header>
+<a class="skip-main" href="#nav">Menu</a>
+
+    
     <main>
       {{ content | safe }}
     </main>
+    <hr>
+    <div  role="navigation" id="nav">
+          <h1>Navigation</h1>
+          <ul>
+      {%- for post in collections.pagesAscending -%}
+        <li><a href='{{ post.url }}'>{{ post.data.title }}</a></li>
+      {%- endfor -%}
+
+    </div>
+    </nav>
   </body>
 </html></body></html>

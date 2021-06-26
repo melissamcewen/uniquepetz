@@ -1,12 +1,37 @@
 ---
 layout: layouts/page.njk
 tags: pages
+category: downloads
 title: Downloads- Selective Breeds
 ---
 
 ## Selective Breeds
 
 These files are Petz 4. Do whatever you'd like with them :)
+
+
+### Corgiz (2021)
+
+I set out to make something that looked a bit like a corgi and this is what I ended up with. These lovable dogz have lab personalities + heads, chihuahua ears, dachshund bodies, scottie legs + feet, sheepdog tails and coat, and some mutt markings.
+
+![Corgiz](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Feewwe.png?v=1622597512869)
+
+- [midnight.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FMidnight.pet?v=1622597448699)
+- [galaxy.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FGalaxy.pet?v=1622597442317)
+- [tangelo.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FTangelo.pet?v=1622597452688)
+- [patrick.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FPatrick.pet?v=1622597450686)
+
+
+### Sheepcoat (2021)
+These are a bit of a gimmick because they as far as I know the first NIB (not inbred) selective breed. The catch is they are pretty simple (just basically dalmatians with sheepdog coats) and if you breed them together they will be inbred. However, they might be good for breeding projects. 
+
+![Sheepcoat](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepcoat.png?v=1621561920240)
+
+- [Sheepcoat1.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepcoat1.pet?v=1621562050508)
+- [Sheepcoat2.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepcoat2.pet?v=1621562048309)
+- [Sheepcoat3.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepcoat3.pet?v=1621562052888)
+- [Sheepcoat4.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepcoat4.pet?v=1621562055387)
+
 
 ### Italian Greyhoundish (2021)
 I thought it might be fun to try to replicate IRL breeds with the original PF Magic breeds using selective breeding. This is what I came up for with "Italian Greyhound". Dachie head, bulldog ears, dali body/coat, great dane legs/feet/tail. They should breed true but watch out for random mutations that might cause bicolors to show up due to random mutations + daschie head. I used some of [Vickie's original Italian Greyhound breed](https://web.archive.org/web/20011212080032fw_/http://www.geocities.com/gaealunavenus2/) as a foundation. Vickie was a Petz hexer/selective breeder and her guides taught me so much back in the 00s.
@@ -21,7 +46,7 @@ I thought it might be fun to try to replicate IRL breeds with the original PF Ma
 
 ### Unfancy Poodles (2021)
 
-I love Petz poodle behavior but not the poodle cut. These puppies have poodle behavior and the appearance of poodles except they have dali ears and scottie heads. Also useful for breeding labradoodles and other types of dogs without worrying about the puppies having partial poodle cuts.
+I love Petz poodle behavior but with poodle "pet cute". These puppies have poodle behavior and the appearance of poodles except they have dali ears and scottie heads. Also useful for breeding labradoodles and other types of dogs without worrying about the puppies having partial poodle cuts.
 
 ![Unfancy poodles](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funfancy.png?v=1620005569138)
 

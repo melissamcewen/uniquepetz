@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 tags: pages
+category: madscience
 title: Mad Science- Naturally-bred Personality Swap Petz
 ---
 
@@ -16,6 +17,13 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Helga](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FHelga.pet?v=1621292291030)
 
+#### Poodle Personality
+
+![Slenderman](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound-victorian.png?v=1621560165849)
+
+[Slenderman](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fslenderman.pet?v=1621560182911)
+
+
 <hr>
 
 ### Dachshund (120) Face
@@ -28,15 +36,22 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 
 #### Mutt (145) Personality
+
 ![Fifel](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffifel.png?v=1621290673243)
 
 [Fifel](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFifel.pet?v=1621290713242)
 
 
 #### Scottie Personality
-![Audubon](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz1.png?v=1621479729954)
+
+![Audubon](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAudubon.png?v=1623366888800)
 
 [Audubon](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAudubon.pet?v=1621479745706)
+
+#### Sheepdog Personality
+![scoob](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound-schru.png?v=1621560419359)
+
+[Scoob](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fscoob.pet?v=1621560414781)
 
 <hr>
 
@@ -57,6 +72,12 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 <hr>
 
 ### Great Dane (157) Face
+
+#### Bulldog Personality
+
+![Big Beefer](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound-husky.png?v=1621560267128)
+
+[Big Beefer](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbig-beefer.pet?v=1621560281358)
 
 #### Dalmatian Personality
 ![Dosi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdosi.png?v=1621484562810)
@@ -85,11 +106,33 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 [Joha](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJoha.pet?v=1621052186140)
 
 
+#### Great Dane Personality
+
+![Husky-corgi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhusky-corgi.png?v=1621560093327)
+
+[Husky-corgi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhusky-corgi.pet?v=1621560109583)
+
+#### Poodle Personality
+
+![Kubi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz213.png?v=1622007338843)
+
+[Kubi](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FKubi.pet?v=1622007307377)
+
 #### Scottie Personality
 
 ![Snickerdoodles](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsnickerdoodles.png?v=1621486962727)
 
 [Snickerdoodles](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSnickerdoodles.pet?v=1621486984147)
+
+<hr>
+
+### Poodle Face
+
+#### Sheepdog personality
+
+![Rutherford](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz225.png?v=1622144875855)
+
+[Rutherford](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FRutherford.pet?v=1622144892160)
 
 
 <hr>
@@ -102,6 +145,12 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 [Jumpy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJumpy.pet?v=1621484676795)
 
+#### Mutt Personality
+
+![Fizzy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffizzy.png?v=1621618776060)
+
+[Fizzy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFizzy.pet?v=1621618817855)
+
 #### Poodle (112, 138) Personality
 
 ![Sophia](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsophiabenson.png?v=1620794378852)
@@ -110,7 +159,7 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 #### Sheepdog Personality
 
-![Clown Shoes](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz2.png?v=1621480124273)
+![Clown Shoes](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fclownshoes.png?v=1623366977099)
 
 [Clown Shoes](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FClown%20Shoes.pet?v=1621480137939)
 

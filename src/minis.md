@@ -1,7 +1,8 @@
 ---
 layout: layouts/page.njk
 tags: pages
-title: Mad Science- Naturally Bred Mini Petz
+category: downloads
+title: Breeding resources- Minis
 ---
 
 # Minis

@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: madscience
-title: Mad Science- Naturally-bred Personality Swap Petz
+tags: ['pages', 'downloads', 'laboratory']
+description: Download these petz with fun personalities!
+title: Downloadable adoptions
 ---
 
 # Naturally-bred Personality Swap Petz

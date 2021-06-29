@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Breeding resources- Rare Types
+tags: ['pages', 'downloads', 'laboratory']
+description: These petz have unusual traits for your selective breeding projects
+title: Rare puppers
 ---
 
 # Breeding resources: Rare types

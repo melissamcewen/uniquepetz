@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: Crew
-title: About- Crew
+tags: ['pages', 'about']
+description: My amazing Petz
+title: Crew
 ---
 Slowly updating this!
 

@@ -5,29 +5,43 @@
     <link rel="icon" href="https://glitch.com/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="A Petz Site"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/holiday.css@0.9.5"/>
+
     <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     {% seo "" %}
   </head>
+  
   <body>
-    <header>
-      <a href="/"><img src="/public/petz36.png" alt="Unique Petz Logo"><h1>Unique Petz</h1></a>
-    </header>
-<a class="skip-main" href="#nav">Menu</a>
 
-    
-    <main>
-      {{ content | safe }}
-    </main>
-    <hr>
-    <div  role="navigation" id="nav">
-          <h1>Navigation</h1>
-          <ul>
-      {%- for post in collections.pagesAscending -%}
-        <li><a href='{{ post.url }}'>{{ post.data.title }}</a></li>
-      {%- endfor -%}
-
+   <div id="layout">
+  <header class="animal-line pixel">
+    <div class="image-cat">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-cat.png?v=1624665657339" class="pixel desktop-image">
     </div>
-    </nav>
+   <div class="image-spider"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fspiderz.png?v=1624658063833" class="pixel desktop-image "></div>
+    <div class="image-mouse">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flilmouse2.png?v=1624659019687" class="pixel desktop-image ">
+    </div>
+  <a href="/" class="image-logo"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flogopixel.png?v=1624645330004" class="pixel responsive" alt="unique petz home"></a>
+    
+
+</header>
+<nav class="pixel-border">
+  <ul id="menu">
+     <li><a href="/about"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-question.png?v=1624598909230"><span class="menu-item">About</span></a></li>
+    <li><a href="/downloads"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696"> <span class="menu-item">Downloads</span></a></li>
+        <li><a href="/links"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-link.png?v=1624598912179"> <span class="menu-item">Links</span></a></li>
+    <li><a href="/guides"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-guides.png?v=1624598893703"><span class="menu-item">Guides</span></a></li>
+  
+    <li><a href="/laboratory"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-lab.png?v=1624598886057"> <span class="menu-item">Laboratory</span></a></li>
+  </ul>
+</nav>
+<main>
+      {{ content | safe }}
+</main>
+
+</div>
   </body>
 </html></body></html>

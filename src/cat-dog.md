@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
+tags: ['pages', 'laboratory']
 title: Mad Science- Cat Dog Gene Editing
+description: What it says on the box
 ---
 
 # Adding a cat gene to a dog! - Draft

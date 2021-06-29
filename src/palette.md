@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Downloads- Petz Palettes
+tags: ['pages', 'downloads']
+description: Color palettes for Irfanview and Gimp
+title: Petz Palettes
 ---
 
 Irfanview is a free program that's popular in the Petz/game modding community. 

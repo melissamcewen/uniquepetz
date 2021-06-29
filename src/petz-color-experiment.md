@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Mad Science- Petz color experiment!
+tags: ['pages', 'guides', 'laboratory']
+description: Download these rainbow ballz to learn your petz' fav colors!
+title: Petz color experiment
 ---
 
 Did you know petz can have different color preferences? And they can't "see" color the same way we do, it's based on code within .toy files.

@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-tags: pages
+tags: ['pages', 'guides']
 permalink: "petz.html"
-category: guides
-title: Guide- How to play Petz in 2021 for returning or new players
+title: Petz 101
+description: How to play Petz in 2021 for returning or new players
 ---
 
 # Guide: How to play Petz in 2021 for returning or new players

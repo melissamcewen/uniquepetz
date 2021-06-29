@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Downloads- Playscenes
+tags: ['pages', 'downloads']
+description: Wild and wacky playscenes
+title: Playscenes
 ---
 # Skating Competition (Editor/P4)
 

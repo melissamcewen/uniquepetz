@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Guide- Fixing Too-Small .pet Eyes
+tags: ['pages', 'guides']
+description: Petz eyes too small? Fix it with this guide
+title: Fixing Too-Small .pet Eyes
 ---
 
 

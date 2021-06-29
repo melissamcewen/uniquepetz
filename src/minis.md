@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Breeding resources- Minis
+tags: ['pages', 'downloads', 'laboratory']
+description: Unhexed selectively bred mini petz!
+title: Mini Petz
 ---
 
 # Minis

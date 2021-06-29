@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Guide- Fixing a glitched personality
+tags: ['pages', 'guides']
+description: Boring personality? You can edit that too!
+title: Fixing a glitched personality
 ---
 
 

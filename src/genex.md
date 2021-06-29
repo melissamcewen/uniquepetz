@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: madscience
+tags: ['pages', 'guides', 'laboratory']
+description: Learn about genetic hexing, AKA, genexing
 title: Mad Science- Genex Info
 ---
 

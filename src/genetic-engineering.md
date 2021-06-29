@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Mad Science- Guide To Petz Genetic Engineering DRAFT
+tags: ['pages', 'guides', 'laboratory']
+description: Edit .pet "genes" by genexing
+title: Guide To Petz Genetic Engineering DRAFT
 ---
 
 

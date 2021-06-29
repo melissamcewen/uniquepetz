@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Guide- How to add a photo to your petz using paintballz
+tags: ['pages', 'guides', 'laboratory']
+description: How to add a photo to your petz using paintballz
+title: Photo paintballz
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Mad Science- Spiderz
+tags: ['pages', 'downloads', 'laboratory']
+description: More cute than creepy!
+title: Spiderz
 ---
 # Spiderz
 

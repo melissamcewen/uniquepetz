@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: guides
-title: Guide- How to get Petz 4 running on a modern Mac
+tags: ['pages', 'guides']
+title: Petz Mac Guide
+description: How to get Petz 4 running on a modern Mac
 ---
 
 # How to get Petz 4 running on a modern Mac

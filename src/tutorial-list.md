@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: links
-title: Links- My fav petz tutorials
+tags: ['pages', 'links']
+title: Tutorials/guides
+description: Useful Petz tutorials
 ---
 
 # My Fav Petz Tutorials

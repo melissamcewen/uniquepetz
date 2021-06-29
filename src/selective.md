@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Downloads- Selective Breeds
+tags: ['pages', 'downloads']
+description: Old school hex-free selective breeds
+title: Selective breeds
 ---
 
 ## Selective Breeds

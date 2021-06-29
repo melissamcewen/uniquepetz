@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-category: downloads
-title: Downloads- Hexed Breeds
+tags: ['pages', 'downloads']
+description: Download a poodle unicorn and more!
+title: Hexed Breeds
 ---
 
 # Hexed Breeds

@@ -1,7 +1,8 @@
 ---
 layout: layouts/page.njk
-tags: pages
-title: Guide- How to get Petz 4 running on a modern Mac
+tags: ['pages', 'guides']
+title: Petz Mac Guide
+description: How to get Petz 4 running on a modern Mac
 ---
 
 # How to get Petz 4 running on a modern Mac
@@ -9,6 +10,8 @@ title: Guide- How to get Petz 4 running on a modern Mac
 For years I meant to do this but I always got stuck because most instructions for Petz 4 on a Mac use a software called Wine. Wine is extremely buggy and I could never get it to run correctly. So recently I decided to do something else and finally got it running correctly. This all uses free software.
 
 <aside>If you're willing to spend money on it, using Parallels is much easier and faster. They offer a free trial if you want to try it out.</aside>
+
+<aside>There aren't many guides on Wine but this [Babyz guide](https://babyz.org/tutorials/mac.html) might work for Petz. Babyz was another PF Magic game.</aside>
 
 ## Get VirtualBox
 

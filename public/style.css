@@ -19,6 +19,36 @@ aside {
   padding: 0.01rem 0.8rem;
 }
 
+.stamps {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.stamps img {
+   image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+.breed-pics {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.breed-pics img {
+   image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+.breed-pics a:before, .download-link:before {
+  content:url('https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696');
+     image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 :root {
@@ -149,8 +179,7 @@ body {
 }
 
 main img {
-  width: 100%;
-  height: auto;
+  max-width: 100%;
 }
 
 main img.non-responsive {
@@ -192,10 +221,7 @@ iframe {
 
 
 @media (min-width: 700px) {
-  .retina { 
-     width: 50%;
-  }
-  
+
   
   #layout {
     display: grid;

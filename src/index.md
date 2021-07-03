@@ -16,20 +16,26 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 1/7- [literally non-binary petz](/non-binary), [color genetics guide](/color-slots)
 - 28/6- Bichonz available in [genexed breeds](/genexed-breeds)
 - 26/6- site revamp! New toyz! Gay spray and unlimited nacho cheese
 - 12/6 Petz color experiment, cat to dog gene editing, new playscene, new old hexed breed
 - 10/6 Pugz on Genexed breeds!
-- 9/6 Frenchiez/Genexed breeds
 
 
 
 ## Coming Soon
 
 ### July
-- GSDZ selective breed
-- Goldenz selective breed
+- GSDZ genexed selective breed
+- Goldenz genexed selective breed
 - Wire-Coated Victorian Bulldogs selective breed circa 2002 
 - Miniature Border Terrier selective breed circa 2002 
 
 
+## August
+- Boxerz genexed selective breed
+- Affz genexed selective breed
+- Smooth colliez genexed selective breed
+- Greyhoundz genexed selective breed
+- Dobez genexed selective breed

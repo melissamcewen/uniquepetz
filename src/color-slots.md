@@ -76,6 +76,13 @@ On other breeds:
       <figcaption>Lab</figcaption>
     </figure>
   </div>
+  
+<div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-bulldog.png?v=1625444852016">
+      <figcaption>Poodle</figcaption>
+    </figure>
+  </div>
 </div>
 
 
@@ -180,7 +187,12 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-lab.pet?v=1625111931109">Lab</a></figcaption>
    </figure>
   </div>
-   
+   <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-agouti.png?v=1625444851871" >
+      <figcaption>Poodle</figcaption>
+   </figure>
+  </div>   
 </div>
 
 ## Desert Lynx
@@ -227,6 +239,13 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-gsd.pet?v=1625112815873">Lab</a></figcaption>
     </figure>
   </div>
+  
+   <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-gsd.png?v=1625444851976">
+      <figcaption>Poodle</figcaption>
+    </figure>
+  </div>
 </div>
 
 ## Great Dane
@@ -241,6 +260,13 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-great-dane.pet?v=1625112841567">Lab</a></figcaption>
     </figure>
   </div>
+  
+<div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-great-dane.png?v=1625444851998">
+      <figcaption>Poodle</figcaption>
+    </figure>
+</div>
 </div>
 
 ## Honeybear
@@ -270,6 +296,12 @@ On other breeds:
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-jrt.png?v=1625088384998">
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-jrt.pet?v=1625112864596">Lab</a></figcaption>
+    </figure>
+  </div>
+    <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-jrt.png?v=1625444851871">
+      <figcaption>Poodle</figcaption>
     </figure>
   </div>
 </div>
@@ -315,6 +347,13 @@ On other breeds:
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-mutt.png?v=1625088385244">
       <figcaption>Lab</figcaption>
+    </figure>
+  </div>
+  
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-mutt.png?v=1625444852120">
+      <figcaption>Poodle</figcaption>
     </figure>
   </div>
 </div>
@@ -365,6 +404,13 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-pug.pet?v=1625113497613">Lab</a></figcaption>
     </figure>
   </div>
+  
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-pug.png?v=1625444851871">
+      <figcaption>Poodle</figcaption>
+    </figure>
+  </div>
 </div>
 
 
@@ -378,6 +424,12 @@ On other breeds:
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-scottie.png?v=1625088385161">
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-scottie.pet?v=1625113112357">Lab</a></figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-scottie.png?v=1625444852149">
+      <figcaption>Poodle</figcaption>
     </figure>
   </div>
 </div>
@@ -410,6 +462,13 @@ On other breeds:
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-sheepdog.png?v=1625088384980">
       <figcaption>Lab</figcaption>
+    </figure>
+  </div>
+  
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-sheepdog.png?v=1625444851952">
+      <figcaption>Poodle</figcaption>
     </figure>
   </div>
 </div>

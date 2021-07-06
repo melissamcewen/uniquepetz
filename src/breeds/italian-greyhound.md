@@ -12,7 +12,7 @@ I thought it might be fun to try to replicate IRL breeds with the original PF Ma
 - Scales: 120
 - Eye color: Brown or black
 - Ears: Bulldog
-- Head: Dashshund
+- Head: Dachshund
 - Body: Dalmatian
 - Legs: Great dane
 - Feet: Great Dane

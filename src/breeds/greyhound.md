@@ -12,12 +12,12 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 - Scales: 157 (Great Dane)
 - Eye color: Brown or black
 - Ears: Bulldog
-- Head: Dashshund 
+- Head: Dachshund 
 - Body: Dalmatian or Dalmatian
 - Legs: Great dane
 - Feet: Chihuahua (I was thinking smaller feet would be best?)
 - Tail: Great Dane
-- Coat: Dalmatian or Dachshund
+- Coat: Any smooth coat
 - Leg extension: 17 (Great Dane)
 - Body extension: 22 (Labrador)
 

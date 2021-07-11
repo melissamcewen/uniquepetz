@@ -122,7 +122,7 @@ This is a selective breeders nightmare. It is related to the head and not the co
 
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmysterybrowsdach.png?v=1625266769640 2x">
 
-Even weirder they manifest as other colors depending on the coat. 
+Even weirder they manifest as other colors depending on the coat.  I believe this is due to the brown dachies have their eyebrows set to group "-1". When that is set, I believe that the color comes from whatever is in the base breedfile for that paritcular coat. For example -1 brow dachies with dalmatian coats have white brows, because the default dali has a white brow. The other variations have their brows in different groups as set in [Color Info Override]. You can tell the group is -1 because you cannot paint them with the paint can. 
 
 "Chocolate" head: same color sets, different coats
 

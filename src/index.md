@@ -16,11 +16,12 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 6/7- [head swaps](/headswap)
+- 5/7- [scottie line](/scottie-line)
 - 1/7- [literally non-binary petz](/non-binary), [color genetics guide](/color-slots)
 - 28/6- Bichonz available in [genexed breeds](/genexed-breeds)
 - 26/6- site revamp! New toyz! Gay spray and unlimited nacho cheese
 - 12/6 Petz color experiment, cat to dog gene editing, new playscene, new old hexed breed
-- 10/6 Pugz on Genexed breeds!
 
 
 

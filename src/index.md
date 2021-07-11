@@ -16,12 +16,13 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 11/7- new old selective breed [the miniature border terrier](/breeds/mbt)
 - 10/7- [Creating "new" colors with dithering](/dither)
 - 6/7- [head swaps](/headswap)
 - 5/7- [scottie line](/scottie-line)
 - 1/7- [literally non-binary petz](/non-binary), [color genetics guide](/color-slots)
 - 28/6- Bichonz available in [genexed breeds](/genexed-breeds)
-- 26/6- site revamp! New toyz! Gay spray and unlimited nacho cheese
+
 
 
 ## Coming Soon

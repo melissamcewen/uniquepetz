@@ -9,3 +9,5 @@ title: Laboratory
 {%- for post in collections.laboratory -%}
 <li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
  {%- endfor -%}
+  
+</ul>

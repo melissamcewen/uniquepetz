@@ -18,12 +18,21 @@ Some of them are cool but maybe look pretty eye-hurty.
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Foopsomg.png?v=1625973430308)
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpbj1.png?v=1625973380848)
 
+
+## Lisa Frank Texture Pack
+
 I later learned to narrow down the colors to the more pleasing ones ([I called this palette "malibu"](https://gist.github.com/melissamcewen/6eef8f19735e963c567a9130578e57e9)) and do some manual dithering (in an app with dither brushes called Pixaki) to create cool effects. I used these as textures to make these fun Petz: 
 
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fneonnightmare.png?v=1625971530540)
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpixelpetz.png?v=1625973342887)
 
+You can download these textures in a pack I call "Lisas" named as Lisa Frank
 
+<a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flisas.zip?v=1625974066628" class="download-link">Download Lisas.zip</a>
+
+Here's an example of what some of the textures in the pack look like:
+
+<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcatdither.png?v=1625974010786 2x">
 
 Other links:
 - [other dither textures on Mazzew made by someone named Sharon](https://mazzew.neocities.org/textures.html)

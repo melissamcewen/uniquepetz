@@ -32,6 +32,9 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
 <a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FPikaGlitch-KillerBunnyStamp.gif?v=1625782518482"></a>
   <a href="https://dj7.proboards.com/thread/8401/claws-tourney-thursday-july-8th?page=1&scrollTo=79315"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fclaws-12.png?v=1625878233155"></a>
   <a href="https://lukkypenniedal.wixsite.com/justdandypetz"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpennystamp.gif?v=1626117898818"></a>
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp-IWantToBelieve.png?v=1626375496459" alt="by CyberneticCupcake">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F13_xoops.png?v=1626375475633" alt="by Xoops">
+
   </div>
   
   

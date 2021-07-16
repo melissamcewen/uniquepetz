@@ -34,7 +34,7 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
   <a href="https://lukkypenniedal.wixsite.com/justdandypetz"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpennystamp.gif?v=1626117898818"></a>
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp-IWantToBelieve.png?v=1626375496459" alt="by CyberneticCupcake">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F13_xoops.png?v=1626375475633" alt="by Xoops">
-
+ <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdamienwigginstamp.gif?v=1626401637430" alt="by Gyigyg">
   </div>
   
   
@@ -47,5 +47,5 @@ If a stamp has an owner, they have exclusive rights to display it on their pages
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly1.png?v=1625625960671" alt="made for Duke's Group Summer Olympics, owned by: TBA">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1625625954867" alt="made for Duke's Group Summer Olympics, owned by: TBA">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJelly.png?v=1625625957316" alt="made for Duke's Group Summer Olympics, owned by: TBA">
-
+<a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOshie%202.png?v=1626401753292" "made for PUGS shop, owned by: K"></a>
   </div>

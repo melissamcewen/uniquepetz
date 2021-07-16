@@ -35,6 +35,7 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp-IWantToBelieve.png?v=1626375496459" alt="by CyberneticCupcake">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F13_xoops.png?v=1626375475633" alt="by Xoops">
  <a href="https://gyiyg.neocities.org/"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdamienwigginstamp.gif?v=1626401637430" alt="by Gyigyg"></a>
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fstamp_borneodance.gif?v=1626431748913">
   </div>
   
   

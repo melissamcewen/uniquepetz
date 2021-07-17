@@ -20,7 +20,12 @@ Line "Enya" 7th gen: I wanted to breed some NIB cream colored dogz like the "whe
 ## Supreme Grand Champion (SGCh) Unique's Loch Lomond
 Line "Conan" 7th gen: This is an all-black line. In addition they have slightly shorter bodies than the "Enya" line. I bred for unusual eye color since I was keeping the black color. Most of the different eye colors in this line are darker browns and beiges. 
 
+## Stamp:
+If you've adopted a scottie from me feel free to use this stamp:
 
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fscottiestamp.png?v=1626547621739" class="pixel">
+
+I would appreciate if you'd link back to this page
 
 ## Other lines
 I thought it would be fun to link to other NIB lines

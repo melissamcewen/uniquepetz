@@ -6,7 +6,7 @@ layout: layouts/home.njk
 
 
 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fugly.png?v=1624740543355" class="pixel img-left desktop-image"> Welcome! This is a site about the Petz games created by P.F. Magic in
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjuly-stamp-ref-4.png?v=1626587519358" class="pixel img-right desktop-image"> Welcome! This is a site about the Petz games created by P.F. Magic in
 the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened it in 2021.
 ## Looking for adoptions?
 - [PUGS](https://www.petzuniversal.com/view-profile/?view=Uniquepetz)

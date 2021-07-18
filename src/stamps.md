@@ -18,9 +18,12 @@ Fairy [Mouse](https://newlambda.neocities.org/breedz.html) and [Shrimp](https://
 
 Why is the shrimp sideways? IDK she didn't like the wings when I put them on and I thought it was funny.
 
+
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funique-stamp-1.png?v=1624947001159)" class="pixel non-responsive">
 
-
+<aside>
+  There is a hidden stamp somewhere on this site. A cat will show you the way! Don't be afraid to click on things that might not look like links. 
+</aside>
 
 ## My Collection
 <div class="stamps">
@@ -33,7 +36,7 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
   <a href="https://dj7.proboards.com/thread/8401/claws-tourney-thursday-july-8th?page=1&scrollTo=79315"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fclaws-12.png?v=1625878233155"></a>
   <a href="https://lukkypenniedal.wixsite.com/justdandypetz"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpennystamp.gif?v=1626117898818"></a>
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp-IWantToBelieve.png?v=1626375496459" alt="by CyberneticCupcake">
-  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F13_xoops.png?v=1626375475633" alt="by Xoops">
+  <a href="http://www.oasis.fantazzled.com/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F13_xoops.png?v=1626375475633" alt="by Xoops"></a>
  <a href="https://gyiyg.neocities.org/"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdamienwigginstamp.gif?v=1626401637430" alt="by Gyigyg"></a>
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fstamp_borneodance.gif?v=1626431748913" alt="by Alex">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBardStamp%20cherry.png?v=1626476393598" alt="by Bard">

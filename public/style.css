@@ -93,6 +93,12 @@ a {
   padding-right: 1em;
 }
 
+.img-right {
+  float: right;
+  padding-left: 1em;
+}
+
+
 video {
   max-width: 100%;
 }
@@ -296,6 +302,10 @@ iframe {
 
   .desktop-image {
     display: block;
+  }
+  
+  .mobile-image {
+    display: none;
   }
 
   main img {

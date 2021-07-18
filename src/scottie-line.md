@@ -29,6 +29,6 @@ I would appreciate if you'd link back to this page
 
 ## Other lines
 I thought it would be fun to link to other NIB lines
-- [Regusa NIB Dalis](http://www.ragusa.fantazzled.com/)
+- [Ragusa NIB Dalis](http://www.ragusa.fantazzled.com/)
 - [Brewery NIB Dalis](https://gingerade.wixsite.com/brewery/dalmatians)
 - [Rho's NIB Dalis](http://www.rhococo.com/rhopetz/dali-breeding/)

@@ -43,6 +43,7 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdtrhsitestamp1.png?v=1626476402737" alt="by RebeccaMonkey">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcatzlover.png?v=1626488927795" alt="lunarlex">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp-RKC2021-FirstPetzDuo-CatZach.png?v=1626548694016" alt="by ratqueen">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAlrikStamp.png?v=1626662124723" alt="by leashykitty">
   </div>
   
   

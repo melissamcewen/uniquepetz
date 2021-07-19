@@ -27,6 +27,13 @@ If you've adopted a scottie from me feel free to use this stamp:
 
 I would appreciate if you'd link back to this page
 
+## Pet Quality Vs. Show Quality
+Show quality adoptions are typically available on forums like Duke's Group, RKC, and Whiskerwick. They usually require showing. I consider scotties show-quality if they
+- have just one fur color (all black, all wheaten)
+- natural colored eyes (preferably dark)
+
+Pet quality scotties may have two coat colors, unnatural eye colors like teal, or other mutations like brown or grey fur. They are available on PUGS and TFM. 
+
 ## Other lines
 I thought it would be fun to link to other NIB lines
 - [Ragusa NIB Dalis](http://www.ragusa.fantazzled.com/)

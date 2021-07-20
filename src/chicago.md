@@ -20,4 +20,4 @@ Made for [Eddie's journey](https://whiskerwick.boards.net/thread/9570/eddies-tra
 
 Oh and here's a free stamp!
 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStamp%207.gif?v=1626816328939" class="pixel">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fchicago-stamp.gif?v=1626816574616" class="pixel">

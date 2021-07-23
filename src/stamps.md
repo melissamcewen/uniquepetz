@@ -47,6 +47,7 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FPetzcord3yrStamp1.png?v=1626806031085" alt="Petzcord 3 years">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetzcord_mothers_day_2021_stamp_7-5-21_1.png?v=1626806037461">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBeau%20stamp.png?v=1626907059179" alt="by Hisaro">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fstamp_omgbread.png?v=1627007193141" alt="by Alex@Watervale">
   </div>
   
   
@@ -55,9 +56,9 @@ Why is the shrimp sideways? IDK she didn't like the wings when I put them on and
 If a stamp has an owner, they have exclusive rights to display it on their pages with the exception for me displaying my work here. I will link to their sites from the stamps if they have one. 
 
 <div class="stamps">
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly6.png?v=1625625963200" alt="made for Duke's Group Summer Olympics, owned by: TBA"> 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly1.png?v=1625625960671" alt="made for Duke's Group Summer Olympics, owned by: TBA">
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1625625954867" alt="made for Duke's Group Summer Olympics, owned by: TBA">
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJelly.png?v=1625625957316" alt="made for Duke's Group Summer Olympics, owned by: TBA">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly6.png?v=1625625963200" alt="made for Duke's Group Summer Olympics, owned by: Everyone"> 
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly1.png?v=1625625960671" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1625625954867" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJelly.png?v=1625625957316" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOshie%202.png?v=1626401753292" "made for PUGS shop, owned by: K"></a>
   </div>

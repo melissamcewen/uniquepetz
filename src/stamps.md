@@ -58,7 +58,7 @@ If a stamp has an owner, they have exclusive rights to display it on their pages
 <div class="stamps">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly6.png?v=1625625963200" alt="made for Duke's Group Summer Olympics, owned by: Everyone"> 
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly1.png?v=1625625960671" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1625625954867" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly67stamp.png?v=1627007531599" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJelly.png?v=1625625957316" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOshie%202.png?v=1626401753292" "made for PUGS shop, owned by: K"></a>
   </div>

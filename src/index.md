@@ -20,12 +20,12 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 24/7- [Hex archive](/hex), [Barkless/Meowless](/silent), [Weird babyz](/babyz), [New freebie stamp](/stamps), [Clothing](/clothing)
 - 20/7- [Chicago "expansion pack"](/chicago)
 - 11/7- new old selective breed [the miniature border terrier](/breeds/mbt)
 - 10/7- [Creating "new" colors with dithering](/dither)
 - 6/7- [head swaps](/headswap)
 - 5/7- [scottie line](/scottie-line)
-- 1/7- [literally non-binary petz](/non-binary), [color genetics guide](/color-slots)
 
 
 
@@ -35,12 +35,14 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 - GSDZ genexed selective breed
 - Goldenz genexed selective breed
 - Wire-Coated Victorian Bulldogs selective breed circa 2002 
-- Miniature Border Terrier selective breed circa 2002 
 
-
-## August
+### August
 - Boxerz genexed selective breed
 - Affz genexed selective breed
 - Smooth colliez genexed selective breed
 - Greyhoundz genexed selective breed
 - Dobez genexed selective breed
+
+### September
+- Tide Podz
+- Inbread hat

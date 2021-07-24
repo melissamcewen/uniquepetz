@@ -12,7 +12,7 @@ Grab these exclusive stamps!
 
 Grab bag- for anyone who has adopted a grab bag from me:
 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png?v=1624946795766" class="pixel non-responsive">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png" class="pixel non-responsive">
 
 Fairy [Mouse](https://newlambda.neocities.org/breedz.html) and [Shrimp](https://gyiyg.neocities.org/)- Summer Stamp 2021, if you're seeing this, feel free to take it :D
 

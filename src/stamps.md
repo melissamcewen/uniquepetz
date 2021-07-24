@@ -10,20 +10,23 @@ title: Stamps
 
 Grab these exclusive stamps!
 
-Grab bag- for anyone who has adopted a grab bag from me:
-
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png" class="pixel non-responsive">
-
-Fairy [Mouse](https://newlambda.neocities.org/breedz.html) and [Shrimp](https://gyiyg.neocities.org/)- Summer Stamp 2021, if you're seeing this, feel free to take it :D
-
-Why is the shrimp sideways? IDK she didn't like the wings when I put them on and I thought it was funny.
-
-
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funique-stamp-1.png?v=1624947001159)" class="pixel non-responsive">
-
 <aside>
   There is a hidden stamp somewhere on this site. A cat will show you the way! Don't be afraid to click on things that might not look like links. 
 </aside>
+
+### Site Stamp
+
+Freebie just link back to this site!
+
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FStampup%209.png?v=1627108390111" class="pixel non-responsive">
+
+### Grab Bag
+
+for anyone who has adopted a grab bag from me:
+
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funique-stamp-1.png?v=1624947001159)" class="pixel non-responsive">
+
+
 
 ## My Collection
 <div class="stamps">
@@ -61,4 +64,6 @@ If a stamp has an owner, they have exclusive rights to display it on their pages
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly67stamp.png?v=1627007531599" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJelly.png?v=1625625957316" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOshie%202.png?v=1626401753292" "made for PUGS shop, owned by: K"></a>
-  </div>
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png" class="pixel non-responsive" alt="Fairy Mouse and Shrimp- Summer Stamp 2021">
+ <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcacti.png?v=1627108485655" alt="Owned by Crash">
+ </div>

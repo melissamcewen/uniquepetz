@@ -69,4 +69,5 @@ If a stamp has an owner, they have exclusive rights to display it on their pages
 <a href="https://pikaglitch.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOshie%202.png?v=1626401753292" "made for PUGS shop, owned by: K"></a>
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funique-stamp-1.png?v=1624947001159" class="pixel non-responsive" alt="Fairy Mouse and Shrimp- Summer Stamp 2021">
  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcacti.png?v=1627108485655" alt="Owned by Crash">
+ <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fretrodamien.gif?v=1627186329170" alt="Damien, Discord Freebie">
  </div>

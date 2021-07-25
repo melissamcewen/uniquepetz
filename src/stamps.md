@@ -51,6 +51,9 @@ for anyone who has adopted a grab bag from me:
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetzcord_mothers_day_2021_stamp_7-5-21_1.png?v=1626806037461">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBeau%20stamp.png?v=1626907059179" alt="by Hisaro">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fstamp_omgbread.png?v=1627007193141" alt="by Alex@Watervale">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpugsstamp-dwight.gif?v=1627176767911" alt="by Arie">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBabyReveal01_3of3_BabyStamp.png?v=1627178784952" alt="by RatQueen">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fangery.gif?v=1627178814436" alt="by Lunarlex">
   </div>
   
   

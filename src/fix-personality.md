@@ -28,27 +28,15 @@ I'll open up the honey.pet file in the hex editor. Here's a quick run down of th
 
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2022.03.55%402x.jpg?v=1622343948973)
 
-The first thing you MUST do is calculate the checksum. Go to the little window on the right bottom and select the "checksum" tab. Then click the checkmark on the top of the box. Use 32-bit. 
-
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FScreen%20Shot%202021-05-29%20at%205.33.33%20PM.png?v=1622343731271)
-
-Write down the result, you'll need it later. For Honey.pet it's 2721598.
-
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.33.44%402x.jpg?v=1622343759417)
 
 Remember those numbers from the GDA? The first one is 89. We need to find this number in the file. But differently...because it won't be stored as 89, it will be stored as a hexadecimal (hex) number, which works a little differently.
 There are lots of converters out there but I really like [rapidtables decimal to hex](https://www.rapidtables.com/convert/number/decimal-to-hex.html). 
 
-Turns out 89 = 59 in hex. We'll use that to find where the personality numbers are. Go to the Edit menu and select Find (or use CTRL-F). Select "Hex Values" for type.
-
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.39.28%402x.jpg?v=1622344123441)
-
-There are a bunch of results but looking at the ASCII section on the right, I can scroll until I get past the lnz to where it says p.f.magicpetzIII on the right. I'll keep scrolling a little until I see p.f.magicpetzIII again. This is the personality area. So I see where the 59 is here in the hex area. 
+Turns out 89 = 59 in hex. We'll use that to find where the personality numbers are. Go to the Edit menu and select Find (or use CTRL-F). Select "Hex Values" for type. The pattern here is to convert both numbers to hex and there will be `00 00 00` between them so search for `59 00 00 00 0D `
 
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.43.04%402x.jpg?v=1622344942648)
 
 The other personality values are somewhere above this. I know one of the glitched values I want to change is 50. **50 converted to hex is 32**
-
 
 So I'm going to look for a 32 above it in the hex area. I find one here. 
 

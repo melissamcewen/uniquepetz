@@ -11,7 +11,7 @@ title: Stamps
 Grab these exclusive stamps!
 
 <aside>
-  There is a hidden stamp somewhere on this site. A cat will show you the way! Don't be afraid to click on things that might not look like links. 
+  There is a hidden stamp somewhere on this site. A cat will show you the way! Don't be afraid to click on things that might not look like links. There is also an additional stamp that's on a page and not very hidden. 
 </aside>
 
 ### Site Stamp
@@ -24,8 +24,9 @@ Freebie just link back to this site!
 
 for anyone who has adopted a grab bag from me:
 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png" class="pixel non-responsive">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgrabbag-v3.png?v=1627358218955" class="pixel non-responsive">
 
+Yes, the grab bag is based on a Dragon Quest monster haha. 
 
 
 ## My Collection
@@ -62,6 +63,7 @@ for anyone who has adopted a grab bag from me:
 If a stamp has an owner, they have exclusive rights to display it on their pages with the exception for me displaying my work here. I will link to their sites from the stamps if they have one. 
 
 <div class="stamps">
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoodybag-1.png" alt="old grab bag stamp">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly6.png?v=1625625963200" alt="made for Duke's Group Summer Olympics, owned by: Everyone"> 
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly1.png?v=1625625960671" alt="made for Duke's Group Summer Olympics, owned by: Everyone">
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FJuly67stamp.png?v=1627007531599" alt="made for Duke's Group Summer Olympics, owned by: Everyone">

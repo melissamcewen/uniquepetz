@@ -70,4 +70,5 @@ If a stamp has an owner, they have exclusive rights to display it on their pages
 <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Funique-stamp-1.png?v=1624947001159" class="pixel non-responsive" alt="Fairy Mouse and Shrimp- Summer Stamp 2021">
  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcacti.png?v=1627108485655" alt="Owned by Crash">
  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fretrodamien.gif?v=1627186329170" alt="Damien, Discord Freebie">
+ <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Foshie9.gif?v=1627357913627" alt="Lex's Oshie, Discord freebie">
  </div>

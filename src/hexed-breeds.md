@@ -7,7 +7,20 @@ title: Hexed Breeds
 
 # Hexed Breeds
 
-## Honeybearified Alley OW
+## Honeybearified OWs
+Turn basic breeds into Honey Bears
+
+### Black & White Shorthair Honeybearified
+![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fscammer.png?v=1627184397467)
+
+These are based on a pet I bred that I thought was hilarious. His name is "scammer". He looks like a movie villain. Overwrites the B+W Shorthair breed. Put in resources/catz and rename to B+W Shorthair.
+
+
+* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FB%2BW%20Shorthair%20honeybear.cat?v=1627594278690)
+
+
+
+### Alley Cat Honeybearified
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz247.png?v=1622943028239)
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz249.png?v=1622943017360)
 

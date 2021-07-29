@@ -20,12 +20,12 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 29/7- new [bw+shorthair honeybearified OW](/hexed-breeds)
 - 24/7- [Hex archive](/hex), [Barkless/Meowless](/silent), [Weird babyz](/babyz), [New freebie stamp](/stamps), [Clothing](/clothing)
 - 20/7- [Chicago "expansion pack"](/chicago)
 - 11/7- new old selective breed [the miniature border terrier](/breeds/mbt)
 - 10/7- [Creating "new" colors with dithering](/dither)
 - 6/7- [head swaps](/headswap)
-- 5/7- [scottie line](/scottie-line)
 
 
 

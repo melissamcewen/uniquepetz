@@ -28,3 +28,14 @@ Just simple oshies with [pastylabz](https://github.com/yakrell/pastylabz/) paint
 
 
 Adapted from [spiderz](/spiderz) but waaay more cat-like. Available for trade in variations. It just can't look like the ones above.  
+
+
+## Neon Nightmare - Active
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FVz2ASrG.png?v=1627593803381" class="pixel non-responsive">
+
+Made to test out the [dither][/dither] texture pack. Haven't given out any of these yet.
+
+## PBJ - Active
+<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpbj.png?v=1627593980311" class="pixel non-responsive">
+
+Adapted from a bred pet (mix of <a href="https://gyiyg.neocities.org/">spivak</a> and honey bear. The first one uses my [dither](/dither) textures on an Oshie base. Available in any texture/color/base.

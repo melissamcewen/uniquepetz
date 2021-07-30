@@ -35,6 +35,14 @@ Beefy but scaredy! Overwrites the Orange Shorthair breed. Put in resources/catz 
 
 * [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOrange%20Shorthair%20-%20honeybearified.cat?v=1627616960711)
 
+### Chinchilla Honeybearified
+![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhoneybearchinchi.png?v=1627679166946)
+
+Poofy attitude machines. Overwrites the Chinchilla breed. Put in resources/catz and rename to Chinchilla
+
+
+* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FChinchilla%20Persian%20-%20honeybearified.cat?v=1627679199714)
+
 
 ## Poodlecorn
 

@@ -43,6 +43,12 @@ Poofy attitude machines. Overwrites the Chinchilla breed. Put in resources/catz 
 
 * [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FChinchilla%20Persian%20-%20honeybearified.cat?v=1627679199714)
 
+## Calico Honeybearified
+![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhoneybearcalico.png?v=1627680568317)
+
+Heart shaped nose + honey bear looks. 
+
+* [Petz 4 Breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCalico-honeybearified.cat?v=1627680556526)
 
 ## Poodlecorn
 

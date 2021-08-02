@@ -95,6 +95,7 @@ If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate 
 - [Filthy Hippie](http://petz.filthyhippie.net)- useful hexing tutorials and other resources
 - [kitsch](https://makopetz.wixsite.com/kitsch/resources)- Griffin hexing base
 - [dtrh](https://dtrh.neocities.org/)- Clothes hexing resources
+- [tails of the grotesque](http://www.petz.klomonx.rip/)- selective breeds
 
 ## Web Archive Gems
 - [Vickie's Petz Zoo](https://web.archive.org/web/20180214072903/http://www.angelfire.com/moon2/petzzoo2/)- Truly amazing breeds!

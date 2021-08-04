@@ -60,6 +60,8 @@ Yes, the grab bag is based on a Dragon Quest monster haha.
   <a href="https://whiskerwick.boards.net/thread/8892/dtrh-unnaturally-colored-petz-judged?page=1&scrollTo=163386"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBRyAtWu.png?v=1627593800479"></a>
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FRKCForumStamp.png?v=1627677654112" alt="by ratqueen">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F56_bottomsup6.png?v=1627773393747" alt="by xoops">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fapexpredator-2.gif?v=1628116305810" alt="by arie">
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcargo_stamp_039lola.png?v=1628116346478" alt="by Amanda at Cargo">
   </div>
   
   

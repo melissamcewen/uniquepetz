@@ -12,69 +12,77 @@ Each .pet file has its own "genome" which carries two sets of genes. One set fro
 
 You can change this genome several ways. This guide assumes basic knowledge of hexing and petz breeding. How to hex and the genetics of color are beyond the scope of this tutorial but I recommend checking out [Yabiko's breeding guide](https://reflettage.wixsite.com/yabiko/breeding-guide), [Crushing Petz Genetics Guide](https://crushingpetz.tumblr.com/) (under Resources), and [Intron/Exon](http://intronexon.host56.com/).
 
-## The "Easy" Way
-People have been editing the .pet genome without knowing it since the invention of hexing. When you hex a breedfile (not a pet file) and adopt a pet from it, it may have an altered genome, even when the original breedfile is put back in. As far as we know the only values this applies to is:
-- eye colors
-- coat colors
-- eyelid colors
-- scales
-- leg extension
-- body extension
+## Setup
+You'll need
+- a hex editor (I use [HXD](https://mh-nexus.de/en/hxd/))
+- PetzByte and GenePoolz by [Reflet](https://reflettage.wixsite.com/yabiko/download)
+- A reference sheet. I have a [Petz Genetics](https://airtable.com/shrMJLBngan9NvSw8) sheet in Airtable that I will be using here. A simpler one is available at [petz genome value reference](https://gyiyg.neocities.org/images/geneticvaluesref.txt).
+- An pet file, if you'd like to use the same file I'm using it's available [download line-4-gen-1-3.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fline-4-gen-1-3.pet?v=1628115007769
 
-For colors, only certain colors work in the "genome". See a [list here on intron/exon](http://intronexon.host56.com/) and a full list on the [[Breeding] All possible fur, eye, and eyelid color mutations](https://whiskerwick.boards.net/thread/6341/breeding-all-eyelid-color-mutations) Whiskerwick forum thread (you may need to register to access). For example, you hexed a the Chinchilla breedfile to be pink, adopted a pink Chinchilla, then put the original P.F. Magic chinchilla.cat file back, the offspring would not inherit the pink color. But if you hex a cream color chinchilla, they might!
+## Viewing The File
+[Reflet has a detailed guide to the "looks chromosome"](https://reflettage.wixsite.com/yabiko/breeding-guide). To view it in the same way in HxD, go to the "view" menu and select "byte per row". Change that to "15". 
 
-For a demo, i'll hex a cream color chinchilla. First I take the chinchilla.cat file and back it up. Then I'll edit it in Lnz Pro. I only need to change one body part, as long as it's the body part that determines the base of the "color area".
+![CleanShot 2021-08-04 at 17 08 14@2x](https://user-images.githubusercontent.com/1251094/128261683-f0c01aef-901d-4d91-b116-c87b7d6f4205.jpg)
 
-For that I can look at [Fur Color Areas] in the lnz. For Chinchilla they only have one so that makes it pretty easy. The ballWithBaseColor is 2, so I only need to change the color for ball 2. Some breeds have many color areas which can get a bit complicated. But here this means I only need to change the color of ball #2 (eBall_belly) to 45.
+## Finding The Looks Chromosome
+For me I find the easiest way is just scrolling down the file. You'll see the Lnz section. And then a section that lists the breed files the .pet uses followed by "p.f.magicpetzIII"
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-05%20at%2018.47.29%402x.jpg?v=1622937178931)
+![CleanShot 2021-08-04 at 17 12 12@2x](https://user-images.githubusercontent.com/1251094/128262042-0fb51495-ade3-4df6-9489-4ff6407addd7.jpg)
+ 
+Then you scroll past that until you find a section headed by "FF FF FF FF" with a bunch of breed IDs below it. There will be two sections like this because each pet has two "looks chromosomes"
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-05%20at%2018.48.27%402x.jpg?v=1622937217477)
-
-Save and the chinchilla I adopted from this file is "genetically engineered". You can confirm with Gene Poolz. Breeds with just one Fur Color Area are nice because just changing that one value changed ALL the color values. The offspring of two chinchillas adopted from this file will likely be all cream color (unless there is a random mutation)
-
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FScreen%20Shot%202021-06-04%20at%207.41.45%20PM.png?v=1622856636071)
-
-Congrads you did it! Just to demo I'll put the OG Chinchilla file back, adopt a regular chinchilla, and see what the offspring are like. As you can see one is white and one is cream. But they both carry the cream color genes.
-
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-05%20at%2018.50.26%402x.jpg?v=1622937248685)
+![CleanShot 2021-08-04 at 17 13 48@2x](https://user-images.githubusercontent.com/1251094/128262200-2c772432-dd93-431e-bb9d-2b7f9933f0c0.jpg)
 
 
-## The Hard Way
-What about editing the "genome" of an existing .pet file? This is harder. You'll need to be able to use a hex editor, understand breed IDs, and balance the checksum (I recommend Reflet's [Petz Byte tool](https://reflettage.wixsite.com/yabiko/download))
+For beginners it may be helpful to just search for the breed IDs. For example, based on our reference sheet we know the breed ID for dalmatian is "F7 03". You can do a hex search for that. 
 
-<aside>
-  <a href="https://reflettage.wixsite.com/yabiko/breeding-guide">Reflet now has a really great genetics guide on this part of a .pet file</a>
-</aside>
+![CleanShot 2021-08-04 at 17 14 12@2x](https://user-images.githubusercontent.com/1251094/128262228-6243745b-b0cc-4eaf-9d39-b6b06dc95021.jpg)
 
-I've provided a .pet file with annotated Hex Workshop bookmarks so you can see what each area does. Do not load the .pet file in the game and open it because this alters the file, making the bookmarks wrong. This file is also corrupt so you can't load it. It's for demo purposes only.
 
-Since it's an AC pet, its sets are identical and i've only annotated set 2.
+## Changing the eyelid color
+First, open our example pet in Genepoolz
+![CleanShot 2021-08-04 at 17 15 25@2x](https://user-images.githubusercontent.com/1251094/128262339-292e4c1f-0cfb-4198-abab-6eb1c8ef9ab2.jpg)
 
-Load the file in Hex Workshop, then load the .hbk bookmark file.
+I want to change both eyelid colors to black. Right now one of them already is black but the other is Brown (99). Since it's the "Set 1" I know it will be the first "looks chromosome". Looking up in my reference sheet I find that Brown (99) corresponds to "0D". Here it is in the "looks chromosome".
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-04%20at%2020.27.42%402x.jpg?v=1622856634535)
+![CleanShot 2021-08-04 at 17 18 18@2x](https://user-images.githubusercontent.com/1251094/128262633-09b66ed5-5758-44c7-b888-3991ac209c3d.jpg)
 
-- [dane-cherry.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FDane-cherry.pet?v=1622856675305)
-- [cherrybookmarks.hbk](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcherrybookmarks.hbk?v=1622856677843)
+Back to my reference sheet I find the hex number for the shade of black I want "black (39)". The hex number is "08". I change the "0D" to "08" and save.
 
+![CleanShot 2021-08-04 at 17 20 09@2x](https://user-images.githubusercontent.com/1251094/128262775-82723fe1-14bc-4998-8628-8ad6b346fbbd.jpg)
+
+Now let's check in Genepoolz!
+
+![CleanShot 2021-08-04 at 17 21 07@2x](https://user-images.githubusercontent.com/1251094/128262859-d4027fab-ac64-4f93-b37e-62fe1abdb021.jpg)
+
+
+Voila! Now you will need to balance the checksum, otherwise the game will think the .pet file is corrupt. I use PetzByte to do this. You should be able to just drag the .pet file on to PetzByte. Because I use a non-Windows computer I have to run it on the command line with " python3 PetzByte.py line-4-gen-1-3.pet"
+
+Yay! you did it! This pet file should now only carry black eyelids. So when you breed it, the offspring will have black lids...unless there is a new mutation. 
 
 
 ## FAQ
 
-### Can I get particular markings with this method/ what is rand seed?
-Short answer is no. If you looked at the bookmarks in the tutorial file, you'd see there are several areas marked "random seed." This is used to calculate what variations a pet expresses. There is a degree of randomness involved. So if you copy the seed from a particular sheepdog with a bobtail and copy it into the tail value of one with a tail, that will work. With mutt markings or dali spots, that method won't work because there are more random values involved. Some people call these more complex ones "linked" variations. Thanks to Reflet/Yabiko for explaning this to me.
+### Can I get particular markings?
+Sometimes but there is a degree of randomness involved. So if you copy the seed from a particular sheepdog with a bobtail and copy it into the tail value of one with a tail, that will work. With mutt markings or dali spots, that method won't work because there are more random values involved. Some people call these more complex ones "linked" variations. Thanks to Reflet/Yabiko for explaning this to me. My Airtable has a couple of seeds that I know for some commonly requested markings. 
 
-The example file there is only one rand seed used. Each adoption center pet just has one. Mixed petz may carry many!
+![CleanShot 2021-08-04 at 17 28 19@2x](https://user-images.githubusercontent.com/1251094/128263524-43b0eea4-9acc-4410-a6f0-e2740156c195.jpg)
+
+For example if you want a sheepdog with a long tail, go to the tail value and make the random seed "DA 0D"
+
+### How does leg/body extension work?
+I'm not entirely sure but I hope to document it more in the future. I usually start by finding a pet with the desired extension and just copy from that. I am not very good at math though so maybe someoone will write a better explanation. It's not as intuitive as the other values and uses columns that the other values don't. I put some values I use commonly into my Airtable. For example my munchkin cats use "C3 FF FF FF" which translates into -61. 
+
+It also make not have that much effect. Each breed has a different minimum and maximum depending on the original values. 
 
 ### What about personality trait genetics?
 I haven't explored that yet but should work in a similar way.
 
 ### I changed my personality gene to one breed but the offspring expresses another breed?
-Personality is a bit complicated. It's linked to scales. There is also some similar stuff happening with the leg and body extension stuff as well. TODO: explain more.
+Personality is a bit complicated. It's linked to scales. 
 
 ### My pet has an eye color that's not in the genome! It was naturally bred...what gives?
-Sometimes this happens. It's a random thing. No one knows why.
+Sometimes this happens. It's a random thing. No one knows why. Many people call this a "fluke"
 
 ### Can I tell if a pet has been genetically engineered?
 

@@ -35,3 +35,13 @@ This is the P5 German Shepherd with parts from a few other breeds. I quite like 
 - Tail: Sheepdog (long)
 
 [Download pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-p5.zip?v=1628383949785)
+
+
+## V3: GSDZ with P5 Face
+If you want the GSD face without the breeding chaos of the GSD markings/coat (which can mutate very strangely), this pair is useful!
+
+<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdface.png?v=1628392941471 2x">
+
+
+[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-v3.zip?v=1628392934473)
+

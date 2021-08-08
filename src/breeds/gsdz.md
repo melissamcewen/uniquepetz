@@ -1,0 +1,37 @@
+---
+layout: layouts/page.njk
+tags: ["pages", "p5reimagined"]
+description: A selective breed made with P3/4 breeds + P5 version with other breed traits
+title: German Shepherd
+---
+# German Shepherd
+I really like the face of the P5 German Shepherd and it's not particularly easy to recreate anything like it with the P3/4 breeds so I did two versions. One with the P5 breed and one without.
+
+### V1: GSDZ
+This is a selective breed with some genexing. It really doesn't look much like a real German Shepherd LOL but this is as close as I could come with the original breeds.
+
+<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdz.png?v=1628383769218 2x">
+
+- Scales: 135 (lab)
+- Ears: Chihuahua
+- Head: Great Dane
+- Body: Labrador
+- Legs: Labrador
+- Feet: Labrador
+- Tail: Sheepdog (long)
+- Coat: Sheepdog
+
+[Download pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-p4.zip?v=1628383971336)
+
+### V2: German Shepherd v2
+This is the P5 German Shepherd with parts from a few other breeds. I quite like this especially for breeding as I'm not fond of the German Shepherd ears on other breeds for example. This breed is low gen and completely genexed. Requires the German Shepherd breed in Petz 3/4.
+
+<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdre.png?v=1628383890420 2x">
+
+- Ears: Chihuahua
+- Body: Labrador
+- Legs: Labrador
+- Feet: Labrador
+- Tail: Sheepdog (long)
+
+[Download pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-p5.zip?v=1628383949785)

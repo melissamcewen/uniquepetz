@@ -1,12 +1,12 @@
 ---
 layout: layouts/page.njk
-tags: ["pages", "selective-breeds"]
-description: Genexed selective puggy dogz
+tags: ["pages", "p5reimagined"]
+description: The pug reimagined with p3/4 breeds
 title: Pugz
 ---
 
 ## Pugz
-I wanted to see how Pug-like I could make a dog using only the original PF Magic breeds. The result is this cutie! Dali ears, dali markings, bulldog head, tail and body. Chihuahua legs and feet. 
+I wanted to see how Pug-like I could make a dog using only the original PF Magic breeds from Petz 3 and 4. The result is this cutie! Dali ears, dali markings, bulldog head, tail and body. Chihuahua legs and feet.
 
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpugz.png?v=1623370717397)
 

@@ -14,7 +14,7 @@ Some have hexed lineaged using the "[genexing](/genex) technique", this will be 
 {%- for post in collections.realistic-breeds -%}
 <li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
  {%- endfor -%}
-  
+
 </ul>
 
 
@@ -24,9 +24,17 @@ Some have hexed lineaged using the "genexing technique"
 {%- for post in collections.selective-breeds -%}
 <li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
  {%- endfor -%}
-  
+
 </ul>
 
+## P5 Reimagined
+The Petz 5 breeds "reimagined" with genexing!
+<ul>
+{%- for post in collections.p5reimagined -%}
+<li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
+ {%- endfor -%}
+
+</ul>
 
 ## WIP Selective Breeds
 None available for download
@@ -34,5 +42,5 @@ None available for download
 {%- for post in collections.wip -%}
 <li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
  {%- endfor -%}
-  
+
 </ul>

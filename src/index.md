@@ -6,9 +6,9 @@ layout: layouts/home.njk
 
 
 
-<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjuly-stamp-ref-4.png?v=1626587519358" class="pixel img-right desktop-image"></a> 
+<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjuly-stamp-ref-4.png?v=1626587519358" class="pixel img-right desktop-image"></a>
 
-<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1626587835435" class="pixel img-right mobile-image"></a> 
+<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1626587835435" class="pixel img-right mobile-image"></a>
 
 Welcome! This is a site about the Petz games created by P.F. Magic in
 the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened it in 2021.
@@ -20,12 +20,13 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 7/8- [Breeding resources some new ones and consolidating old ones](/breeding-resources), [Surprise breeding petz](/surprise)
 - 30/7- [Untitled Geeze](/untitled-geez), new [honeybearified OWs](/hexed-breeds)
 - 29/7- new [bw+shorthair honeybearified OW](/hexed-breeds)
 - 24/7- [Hex archive](/hex), [Barkless/Meowless](/silent), [Weird babyz](/babyz), [New freebie stamp](/stamps), [Clothing](/clothing)
 - 20/7- [Chicago "expansion pack"](/chicago)
 - 11/7- new old selective breed [the miniature border terrier](/breeds/mbt)
-- 10/7- [Creating "new" colors with dithering](/dither)
+
 
 
 
@@ -35,7 +36,7 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 ### August
 - GSDZ genexed selective breed
 - Goldenz genexed selective breed
-- Wire-Coated Victorian Bulldogs selective breed circa 2002 
+- Wire-Coated Victorian Bulldogs selective breed circa 2002
 - Boxerz genexed selective breed
 
 

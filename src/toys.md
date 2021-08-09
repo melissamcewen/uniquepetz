@@ -10,7 +10,7 @@ description: weird Petz toys
 
 I noticed petz would often balance on the "dog bed" from the P4 so I used it to hex a balance board.
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-board.toy.zip?v=1624822554000)
+[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance%20board.zip?v=1628548584407)
 
 
 # UNLIMITED NACHO CHEESE- BETA (Petz 4)
@@ -18,7 +18,7 @@ I noticed petz would often balance on the "dog bed" from the P4 so I used it to 
 
 Cheese! It's not just an occasional treat! It's for whenever your petz want it! Hexed to be real cheese flavor!
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FNACHO.toy.zip?v=1624822583342)
+[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fnacho.zip?v=1628548626218)
 
 
 
@@ -27,4 +27,4 @@ Cheese! It's not just an occasional treat! It's for whenever your petz want it! 
 
 CyberneticCupcake had the genius idea to make a gay spray! Unlike regular spray, this spray doesn't punish your petz, it just makes them horny. Happy Pride month!
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FGayspray.toy.zip?v=1624822606748)
+[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgay%20spray.zip?v=1628548611108)

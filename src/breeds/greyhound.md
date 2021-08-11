@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-tags: ["pages", "wip"]
+tags: ["pages", "realistic-breeds"]
 description: Selective/genexed breed based on the real breed
 title: Greyhound
 ---
@@ -12,7 +12,7 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 - Scales: 157 (Great Dane)
 - Eye color: Brown or black
 - Ears: Bulldog
-- Head: Dachshund 
+- Head: Dachshund
 - Body: Dalmatian or Dalmatian
 - Legs: Great dane
 - Feet: Chihuahua (I was thinking smaller feet would be best?)
@@ -24,13 +24,13 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 ## Variations -WIP
 
 <div class="breed-pics">
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound.png?v=1625354742349" >
       <figcaption> Dusty (125) + brown (92) eyes <br/>
-       TBA</figcaption>
+       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound.zip?v=1628641955920">Download pair</a></figcaption>
     </figure>
   </div>
-  
+
 </div>

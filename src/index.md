@@ -20,31 +20,19 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 10/8- [Tons of new selective/genexed](breeds/)
 - 8/8- [German Shepherd reimagined](breeds/gsdz/), [Goldens reimagined](breeds/golden/), [leg-extension guide](/leg-extension)
 - 7/8- [Breeding resources some new ones and consolidating old ones](/breeding-resources), [Surprise breeding petz](/surprise)
 - 30/7- [Untitled Geeze](/untitled-geez), new [honeybearified OWs](/hexed-breeds)
 - 29/7- new [bw+shorthair honeybearified OW](/hexed-breeds)
 - 24/7- [Hex archive](/hex), [Barkless/Meowless](/silent), [Weird babyz](/babyz), [New freebie stamp](/stamps), [Clothing](/clothing)
-- 20/7- [Chicago "expansion pack"](/chicago)
-- 11/7- new old selective breed [the miniature border terrier](/breeds/mbt)
-
 
 
 
 ## Coming Soon
 
-
-### August
-- GSDZ genexed selective breed
-- Goldenz genexed selective breed
-- Wire-Coated Victorian Bulldogs selective breed circa 2002
-- Boxerz genexed selective breed
-
-
 ### September
 - Tide Podz
 - Inbread hat
-- Affz genexed selective breed
-- Smooth colliez genexed selective breed
-- Greyhoundz genexed selective breed
-- Dobez genexed selective breed
+- Wire-Coated Victorian Bulldogs selective breed circa 2002
+

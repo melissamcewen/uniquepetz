@@ -39,4 +39,11 @@ These can be bred selectively but all the dogz on this page have been [genexed](
        <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white.zip?v=1628655587853">Download pair</a></figcaption>
     </figure>
   </div>
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white-2.png?v=1628657975999" >
+      <figcaption>Red/white trim variation 2<br/>
+       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white2.zip?v=1628658011890">Download pair</a></figcaption>
+    </figure>
+  </div>
 </div>

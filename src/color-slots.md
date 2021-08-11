@@ -76,7 +76,7 @@ On other breeds:
       <figcaption>Lab</figcaption>
     </figure>
   </div>
-  
+
 <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-bulldog.png?v=1625444852016">
@@ -118,25 +118,25 @@ On other breeds "default" var:
 ## Dachshund
 
 ### Mystery brows: "Chocolate" vs. Regular Head
-This is a selective breeders nightmare. It is related to the head and not the coat. For example the dog on the left here uses seed 01 38 for the head and the dog on the right uses A0 3F. The brown eyebrows aren't part of the colors in the "genome". 
+This is a selective breeders nightmare. It is related to the head and not the coat. For example the dog on the left here uses seed 01 38 for the head and the dog on the right uses A0 3F. The brown eyebrows aren't part of the colors in the "genome".
 
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmysterybrowsdach.png?v=1625266769640 2x">
 
-Even weirder they manifest as other colors depending on the coat.  I believe this is due to the brown dachies have their eyebrows set to group "-1". When that is set, I believe that the color comes from whatever is in the base breedfile for that paritcular coat. For example -1 brow dachies with dalmatian coats have white brows, because the default dali has a white brow. The other variations have their brows in different groups as set in [Color Info Override]. You can tell the group is -1 because you cannot paint them with the paint can. 
+Even weirder they manifest as other colors depending on the coat.  I believe this is due to the brown dachies have their eyebrows set to group "-1". When that is set, I believe that the color comes from whatever is in the base breedfile for that paritcular coat. For example -1 brow dachies with dalmatian coats have white brows, because the default dali has a white brow. The other variations have their brows in different groups as set in [Color Info Override]. You can tell the group is -1 because you cannot paint them with the paint can.
 
 "Chocolate" head: same color sets, different coats
 
 <div class="breed-pics">
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-coat.png?v=1625267018472" > 
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-coat.png?v=1625267018472" >
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-coat-dashie.pet?v=1625267247333">Dalmatian</a></figcaption>
     </figure>
 
   </div>
     <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdashie-bulldog.png?v=1625267022381" > 
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdashie-bulldog.png?v=1625267022381" >
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdashie-bulldog.pet?v=1625267218506">Bulldog</a></figcaption>
     </figure>
 
@@ -145,7 +145,7 @@ Even weirder they manifest as other colors depending on the coat.  I believe thi
 
 ### "Agouti"/"Body Black"
 
-Most Dachshunds are solid color but a percentage have a black and brown coat. I call it "agouti" because that's what it's called in real dogs. You'll notice it's common among several dog breeds like pinchers and rottweilers. Later I realized it's called "body black" in the code. 
+Most Dachshunds are solid color but a percentage have a black and brown coat. I call it "agouti" because that's what it's called in real dogs. You'll notice it's common among several dog breeds like pinchers and rottweilers. Later I realized it's called "body black" in the code.
 
 <aside>For the markings around the mouth, putting the coat as dachshund isn't enough, you need the right random seed. I'm not entirely sure why. I use 3C 48. </aside>
 
@@ -162,12 +162,12 @@ On other breeds:
 <div class="breed-pics">
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-bulldog.png?v=1624994841117" > 
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-bulldog.png?v=1624994841117" >
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbulldog-agouti.pet?v=1625112700156">Bulldog</a></figcaption>
     </figure>
 
   </div>
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-dali.png?v=1625022090227" >
@@ -180,7 +180,7 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-gd.pet?v=1625111983857">Great Dane</a></figcaption>
    </figure>
   </div>
-  
+
    <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fagouti-lab.png?v=1625022090227" >
@@ -192,7 +192,7 @@ On other breeds:
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-agouti.png?v=1625444851871" >
       <figcaption>Poodle</figcaption>
    </figure>
-  </div>   
+  </div>
 </div>
 
 ## Desert Lynx
@@ -239,7 +239,7 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-gsd.pet?v=1625112815873">Lab</a></figcaption>
     </figure>
   </div>
-  
+
    <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-gsd.png?v=1625444851976">
@@ -260,7 +260,7 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-great-dane.pet?v=1625112841567">Lab</a></figcaption>
     </figure>
   </div>
-  
+
 <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-great-dane.png?v=1625444851998">
@@ -349,7 +349,7 @@ On other breeds:
       <figcaption>Lab</figcaption>
     </figure>
   </div>
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-mutt.png?v=1625444852120">
@@ -386,6 +386,12 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-poodle.pet?v=1625113088312">Lab</a></figcaption>
     </figure>
   </div>
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-coat-dash.png?v=1628655558002">
+      <figcaption>Dachshund</figcaption>
+    </figure>
+  </div>
 </div>
 
 
@@ -404,7 +410,7 @@ On other breeds:
       <figcaption><a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-pug.pet?v=1625113497613">Lab</a></figcaption>
     </figure>
   </div>
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-pug.png?v=1625444851871">
@@ -464,7 +470,7 @@ On other breeds:
       <figcaption>Lab</figcaption>
     </figure>
   </div>
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-sheepdog.png?v=1625444851952">

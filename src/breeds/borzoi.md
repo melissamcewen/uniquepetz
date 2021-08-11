@@ -29,7 +29,7 @@ These can be bred selectively but all the dogz on this page have been [genexed](
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwhiteborzoi.png?v=1628655501433" >
       <figcaption>White<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Faff.zip?v=1628641955463">Download pair</a></figcaption>
+       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-white.zip?v=1628655572669">Download pair</a></figcaption>
     </figure>
   </div>
   <div>

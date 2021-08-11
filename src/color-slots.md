@@ -392,6 +392,13 @@ On other breeds:
       <figcaption>Dachshund</figcaption>
     </figure>
   </div>
+
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpoodle-coat-agouti-dash.png?v=1628656614749">
+      <figcaption>Dachshund "Agouti"</figcaption>
+    </figure>
+  </div>
 </div>
 
 

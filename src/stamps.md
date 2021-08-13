@@ -63,6 +63,7 @@ Yes, the grab bag is based on a Dragon Quest monster haha.
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fapexpredator-2.gif?v=1628116305810" alt="by arie">
   <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcargo_stamp_039lola.png?v=1628116346478" alt="by Amanda at Cargo">
   <a href="https://moonflowerpetz.neocities.org/"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmoonflower035wut.png?v=1628316547854" alt="by Alena"></a>
+  <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F35_acantha.png?v=1628830458890" alt="by xoops">
   </div>
   
   

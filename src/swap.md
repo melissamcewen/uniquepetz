@@ -189,7 +189,7 @@ One thing I've always found fun in Petz is when Petz have the face of one breed 
 
 ![Needy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fneedy.png?v=1620590634743)
 
-[Needy](hhttps://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fneedy.png?v=1620590634743)
+[Needy](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FNeedy.pet?v=1620590738165)
 
 <hr>
 

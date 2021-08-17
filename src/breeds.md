@@ -36,6 +36,16 @@ The Petz 5 breeds "reimagined" with genexing!
 
 </ul>
 
+
+## Wildz
+Other species made by combining original breeds!
+<ul>
+{%- for post in collections.wildz -%}
+<li><a href='{{ post.url }}'>{{ post.data.title }}</a>  - {{ post.data.description }}</li>
+ {%- endfor -%}
+
+</ul>
+
 ## WIP Selective Breeds
 None available for download
 <ul>

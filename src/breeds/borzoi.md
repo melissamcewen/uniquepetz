@@ -46,4 +46,12 @@ These can be bred selectively but all the dogz on this page have been [genexed](
        <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white2.zip?v=1628658011890">Download pair</a></figcaption>
     </figure>
   </div>
+
+  <div>
+    <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white-3a.png?v=1628713706246" >
+      <figcaption>Red/white trim variation 3 (contains traits from P5 breeds, Pappilon and JRT)<br/>
+       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white-3.zip?v=1628713738732">Download pair</a></figcaption>
+    </figure>
+  </div>
 </div>

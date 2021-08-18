@@ -466,7 +466,7 @@ On other breeds:
 
 ## Sheepdog
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepdogcolor.png?v=1625000735418 2x" class="retina">
+<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepdog-pal.png?v=1629263550474 2x" class="retina">
 
 
 On other breeds:

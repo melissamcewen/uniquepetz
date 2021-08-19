@@ -99,6 +99,7 @@ If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate 
 - [Kizmet](http://kizmetpetz.weebly.com/)- fixed P5 dog breeds, clothes and more!
 - [Goatzy Petz and Thingz](https://goatzys.neocities.org/)- goats!
 - [Wild Abyss of Angels](http://wildabyss.heliohost.org/WAA.php)- cool clothes, textures and hexed breeds like Scooby Doo
+- [Folderol](https://folderol.neocities.org/)- Cute clothes and toys!
 
 ## Web Archive Gems
 - [Vickie's Petz Zoo](https://web.archive.org/web/20180214072903/http://www.angelfire.com/moon2/petzzoo2/)- Truly amazing breeds!

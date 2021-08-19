@@ -11,17 +11,17 @@ Seeds are little endian hex format
 
 ## Dogz
 
-On a monocolor dali at marking factor 100 in both slots. 
+On a monocolor dali at marking factor 100 in both slots.
 
 <div class="breed-pics">
-  
+
 <div>
   <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-bulldog.png?v=1625286500178">
       <figcaption>Bulldog</figcaption>
     </figure>
 </div>
-  
+
 <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-chi-patch-cream.png?v=1625286888398">
@@ -35,9 +35,9 @@ On a monocolor dali at marking factor 100 in both slots.
       <figcaption>GSD(seed 0xC857)</figcaption>
     </figure>
 </div>
-  
-  
-  
+
+
+
 <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpappy-dali.png?v=1625286054397">
@@ -45,7 +45,7 @@ On a monocolor dali at marking factor 100 in both slots.
     </figure>
 </div>
 
-  
+
   <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-pappy-dark.png?v=1625363503427">
@@ -61,7 +61,7 @@ On a monocolor dali at marking factor 100 in both slots.
 </div>
 
 
-Todo: 
+Todo:
 
 - Mutt brown ears
 - Mutt face streak middle
@@ -79,7 +79,7 @@ Todo:
 ### Unusual Cases
 
 <div class="breed-pics">
-  
+
 <div>
   <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz265.png?v=1625362154982">
@@ -96,8 +96,41 @@ Todo:
 
 ## Catz
 
-Todo: 
-- Alley cat
+<div class="breed-pics">
+
+<div>
+  <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley-2-slotb.png?v=1629408024890">
+      <figcaption>Alley (marking factor 100)</figcaption>
+    </figure>
+</div>
+<div>
+  <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley50.png?v=1629407936471">
+      <figcaption>Alley (marking factor 50)</figcaption>
+    </figure>
+</div>
+<div>
+  <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley40.png?v=1629407936471">
+      <figcaption>Alley (marking factor 40)</figcaption>
+    </figure>
+</div>
+<div>
+  <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley-30.png?v=1629407936471">
+      <figcaption>Alley (marking factor 30)</figcaption>
+    </figure>
+</div>
+<div>
+  <figure>
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley10.png?v=1629407936471">
+      <figcaption>Alley (marking factor 10)</figcaption>
+    </figure>
+</div>
+</div>
+
+Todo:
 - B&W SH big tail tip
 - B&W SH small tail tip
 - B&W Chest patch

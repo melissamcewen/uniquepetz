@@ -20,12 +20,12 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 
 
 ## Updates
+- 22/8- [naughty](/naughty) toys (PG 13)
 - 18/8- [Tanuki](/breeds/tanuki), [Squirrels](/breeds/squirrel)
 - 17/8- [Hyenas](/breeds/hyenas), [Lions](/breeds/lions)
 - 16/8- [Foxes](/breeds/foxes), [Tons of new selective/genexed "realistic" breeds](breeds/)
 - 10/8- [Tons of new selective/genexed](breeds/)
 - 8/8- [German Shepherd reimagined](breeds/gsdz/), [Goldens reimagined](breeds/golden/), [leg-extension guide](/leg-extension)
-- 7/8- [Breeding resources some new ones and consolidating old ones](/breeding-resources), [Surprise breeding petz](/surprise)
 
 
 

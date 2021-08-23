@@ -12,6 +12,10 @@ layout: layouts/home.njk
 
 Welcome! This is a site about the Petz games created by P.F. Magic in
 the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened it in 2021.
+
+[Join the discord for updates and pre-release downloads](https://discord.gg/9dHkFfDdyc)
+
+
 ## Looking for adoptions?
 - [PUGS](https://www.petzuniversal.com/view-profile/?view=Uniquepetz)
 - [TFM Auctions](https://tfm.petzcommunity.org/index.php?seller=022713)

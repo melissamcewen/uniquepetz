@@ -41,6 +41,7 @@ This doesn't change some of the other actions in this function, which seem to tr
 
 If you want to confirm, you can see in the debugger the emotion is now "3"
 
+![CleanShot 2021-08-27 at 00 50 32@2x](https://user-images.githubusercontent.com/1251094/131078662-7644b341-6672-4741-87a2-3548b1a9d62b.jpg)
 
 
 ## Technical details

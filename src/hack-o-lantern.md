@@ -39,6 +39,10 @@ Remember these are hex numbers!
 
 This doesn't change some of the other actions in this function, which seem to trigger states like "StateTripAndSkid" so you may see your petz jump up in fear but they won't have the "fear" emotion. 
 
+If you want to confirm, you can see in the debugger the emotion is now "3"
+
+
+
 ## Technical details
 
 The Jack O Lantern has its own special function I found in IDA Pro (a disassembler). Petz hexer Gyigyg has a very good guide to using this in the [toy internal adjective hexing tutorial](https://gyiyg.neocities.org/itemhextut.html). The function is called `MakePetzReact` and I've never seen it in any other toy. Search for the `4` hex byte. Then in the search results click on the result that's in the `MakePetzReact` function and is a `push 4`. Do the same for `5`. Then you can use the hex view to find where it is in the file and edit it in a hex editor. 

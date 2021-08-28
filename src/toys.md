@@ -5,6 +5,13 @@ tags: ['pages', 'downloads']
 description: weird Petz toys
 ---
 
+# Treat Puzzle Slider - BETA (Petz 4)
+<video autoplay loop muted playsinline><source src='https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-08-28%20at%2013.59.51.mp4?v=1630177494050' type='video/mp4'></video>
+
+My real life catz LOVE [the catamazing sliders puzzle box](https://catamazing.com/pages/sliders). So I made it in Petz! It's technically a bunch of hacked seed boxes that you put in a hacked basket, so yeah you can put other stuff in the box (including Petz). The petz can play with the sliders themselves or put them in the box! When they bat a treat out, it might roll around for a bit because I hacked the physics. The boxes are different flavors/colors. The red one is chicken, blue one is milk, and green one is fish. 
+
+[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpuzzle%20box.zip?v=1630177615303)
+
 # Balance Board - BETA (Petz 4)
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-22%20at%2021.55.07.gif?v=1624510964980)
 

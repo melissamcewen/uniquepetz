@@ -8,16 +8,16 @@ title: Hack O Lantern
 
 The Jack O Lantern toy is known for triggering "scared" and "angry" emotions in petz. Thanks to Reflet we know the strings associated with these emotions. You can see a list of them in the "Emotions" sheet of the [Petz Stuff](https://docs.google.com/spreadsheets/d/1iAxztX3E9gn8TRoZ3bwG6EBdSIAuu84F8wT8GxZcle4/edit#gid=337215586) spreadsheet. 
 
-01	Happy
-02	Sad
-03	Gratitude
-04	Angry
-05	Happy
-06	Fear
-07	Generous
-08	Jealousy
-09	Pride
-0A[^1]	Shame 
+* 01	Happy
+* 02	Sad
+* 03	Gratitude
+* 04	Angry
+* 05	Happy
+* 06	Fear
+* 07	Generous
+* 08	Jealousy
+* 09	Pride
+* 0A[^1]	Shame 
 
 [^1]: These are hex numbers so this is 10 in decimal
 

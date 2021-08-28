@@ -43,6 +43,22 @@ If you want to confirm, you can see in the debugger the emotion is now "3"
 
 ![CleanShot 2021-08-27 at 00 50 32@2x](https://user-images.githubusercontent.com/1251094/131078662-7644b341-6672-4741-87a2-3548b1a9d62b.jpg)
 
+## Other useful Jack O Lantern info
+
+For changing the flavor search for 
+
+```
+01 00 00 8B 06 6A 1B
+```
+
+The `1B` is the original flavor. [gyiyg's guide has a reference on how to change it](https://gyiyg.neocities.org/itemhextut.html)
+
+For color search for 
+
+```
+00 8B 16 6A 08
+```
+And change the `08`
 
 ## Technical details
 

@@ -41,4 +41,5 @@ the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened i
 - Tide Podz
 - Inbread hat
 - Wire-Coated Victorian Bulldogs selective breed circa 2002
+- EVERY flavors bowls
 

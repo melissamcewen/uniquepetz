@@ -27,4 +27,11 @@ I added some demo data and comments but here are some instructions.
 
 ## Show Pictures
 
+![CleanShot 2021-09-04 at 20 44 53@2x](https://user-images.githubusercontent.com/1251094/132112203-32c7ecfc-8e5b-4e2f-9394-f52b10a926ed.jpg)
 
+1. The show table is a bit more complicated. If you use it correctly it can generate code to paste on a forum so it's easier to enter shows. It will only work if you only have 1 picture per show picture record though. 
+2. This field connects the show picture to the pet. Without that connection the forum code won't have the right show or call name.
+3. Forum code. If this works you can just copy and paste it on most show forums. 
+
+## Show Tracker
+This is meant for tracking each individual entry. So one picture you entered in one show. Then you can also track how many points (if any) the entry won. This is used for calculation a pet's total points. You can get fancy with this, for example I have another table in my main AirTable that tracks different types of shows, different awards, and more. But I wanted to keep this one relatively simple. 

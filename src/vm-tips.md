@@ -11,7 +11,8 @@ For years I meant to do this but I always got stuck because most instructions fo
 
 <aside>If you're willing to spend money on it, using Parallels is much easier and faster. They offer a free trial if you want to try it out.</aside>
 
-<aside>There aren't many guides on Wine but this [Babyz guide](https://babyz.org/tutorials/mac.html) might work for Petz. Babyz was another PF Magic game.</aside>
+<aside>There aren't many guides on Wine but I recently found a new one for wineskin called [Running Petz on a Mac: A Wineskin Tutorial
+](https://toesocks.cuddle-fish.net/wineskinpetz.html). There is also this [Babyz guide](https://babyz.org/tutorials/mac.html) might work for Petz. Babyz was another PF Magic game.</aside>
 
 ## Get VirtualBox
 

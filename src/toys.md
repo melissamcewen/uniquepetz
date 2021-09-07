@@ -9,6 +9,8 @@ description: weird Petz toys
 
 Not gonna lie but I was trying to turn the mouse into a toy that acts like a mouse but it just looks silly. But I thought it was funny so it's uh a fun toy now! Feel free to use it to make other mice! Like giant mice, or like different color mice. You can even paste in the roach lnz. 
 
+
+[Download p5](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fauto-rolling%20mousep5.zip?v=1630976223777)
 [Download p4](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fauto-rolling%20mouse.zip?v=1630885656971)
 [Download p3](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fauto-rolling%20mousep3.zip?v=1630886370537)
 

@@ -8,19 +8,19 @@ title: Judging Activity Shows
 # Judging Activity Shows
 This guide is a WIP. I've become quite into entering and judging activity shows. You can learn more about them on [Petz Activity Shows](https://petz-activity-shows.glitch.me/). The craft of judging pose shows is quite well established. But how do you judge trick or agility shows? It's a bit more difficult since it's not about doing a particular pose. There is a lot of variety. By nature this type of judging will be subjective to some degree, but I hope this guide will give more of an idea of what I look for. 
 
-## Scoring
-For each scoring category, I arrange the pictures on a board from first (best) to last. The best picture gets 5 points, 2nd best gets 4 points and so on. 
 
-## Categories
+## What I Look For
 I really look for two things
 - Technique: How well the skills are executed
 - Presentation: How well the picture is composed
+
+I typically arrange the photos on a board and rank them best to worst. 
 
 ## Rubric
 
 This is the rubric I use, with Batgirl doing the hoop jump for agility as an example
 
-### Bad Technique
+### Bad
  - Does not perform the skill, for example not catching the frisbee in a frisbee show or ignoring the mouse in a mousing show
  - Picture missing required elements like the frisbee in the frisbee show 
 
@@ -30,7 +30,7 @@ Example:
 
 *Batgirl is about to jump through the hoop, but this picture doesn't even show the hoop. She's not jumping. This picture is funny though.*
 
-### OK Technique
+### OK
 - Pet is performing the skill at a basic level
 - The pet's is not demonstrating their best performance of the skill
 - The picture is not a good example of the skill
@@ -44,7 +44,7 @@ Example:
 ![petz27](https://user-images.githubusercontent.com/1251094/132380442-75406ce5-9721-4318-8dea-1e455c0cdafd.png)
 *Another where Batgirl is technically jumping through a hoop, but it doesn't really show her at her best. She's facing away from the camera. It's not a very good picture in general. It looks strange and awkward. She doesn't really look like she made a successful jump.*
 
-### Good Technique
+### Good
 - The pet is performing the skill in an exemplary manner
 - The technique demonstrates athleticism 
 

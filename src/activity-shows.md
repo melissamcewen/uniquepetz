@@ -91,3 +91,8 @@ With Boris!
 ![petz11](https://user-images.githubusercontent.com/1251094/132382480-5a30b169-1803-4b5f-b021-d25b3bd38d07.png)
 
 *Now here it gets more subjective. This is also clearly "Circle jump" but to me she appears more athletic and balanced.*
+
+But in general I'm not sure this is the best trick for her. I usually use the "Speak" trick when I enter her in trick shows. I think it really showcases her personality and best traits. It's easy to get a good picture of her doing it too. 
+
+![petz22](https://user-images.githubusercontent.com/1251094/132383486-05c07621-a6bf-43b2-954c-a7cd9260c4e2.png)
+

@@ -42,6 +42,7 @@ Example:
 *Batgirl is technically jumping through a hoop here, but the picture catches her at an awkward moment. She's barely demonstrating a jump.*
 
 ![petz27](https://user-images.githubusercontent.com/1251094/132380442-75406ce5-9721-4318-8dea-1e455c0cdafd.png)
+
 *Another where Batgirl is technically jumping through a hoop, but it doesn't really show her at her best. She's facing away from the camera. It's not a very good picture in general. It looks strange and awkward. She doesn't really look like she made a successful jump.*
 
 ### Good
@@ -52,7 +53,7 @@ Example:
 
 ![petz30](https://user-images.githubusercontent.com/1251094/132275692-c89a0813-2ea2-4ef2-aece-3c4e8674e5e3.png)
 
-*Batgirl is showcased mid-jump. She is in an enthusiastic leap through the hoop.*
+*Batgirl is showcased mid-jump. She is in an enthusiastic leap through the hoop and the picture showcases that.*
 
 ### Excellent
 - This is as good as it gets, the pet looks like they have completely mastered the skill

@@ -97,3 +97,49 @@ But in general I'm not sure this is the best trick for her. I usually use the "S
 ![petz22](https://user-images.githubusercontent.com/1251094/132383486-05c07621-a6bf-43b2-954c-a7cd9260c4e2.png)
 
 However, I think her neck looks a little strange. So I might try to teach her some new tricks that are a bit more flattering. Tricks is about training, getting a good picture, and choosing the trick that looks best for your pet.
+
+## Mousing Show Examples
+With Big Brain Time
+
+## Bad
+![petz260](https://user-images.githubusercontent.com/1251094/132394311-a71f4e43-68eb-4153-88f0-4fb92c95f20e.png)
+
+*The mouse isn't in the picture. Her eyes are also closed.*
+
+## OK
+![petz114](https://user-images.githubusercontent.com/1251094/132394374-cb03b7dc-0bd6-4429-9c1b-fe406fdfebf7.png)
+
+*It looks like she's about to balance on the mouse, but the picture caught her in an awkward moment.*
+
+## Good
+![petz98](https://user-images.githubusercontent.com/1251094/132394561-f52ce1dc-9886-45eb-b0a7-4d7bbce1d174.png)
+
+*This is pretty good. She looks engaged and ferocious. She's showing off the mouse she caught. BUT see the excellent example for how it could be better.*
+
+## Excellent
+![petz101](https://user-images.githubusercontent.com/1251094/132394550-ae7e0006-d489-4476-89f1-679923b9a60c.png)
+
+*This picture is almost the same as the "Good" one but is just a better shot since it shows both ears.*
+
+## Cat Frisbee
+This is a WIP as [cat frisbee shows](https://petzforum.proboards.com/thread/70446/proposal-catz-frisbee-shows?page=1&scrollTo=773671) are new. Featuring Gatsby.
+
+## Bad
+![petz74](https://user-images.githubusercontent.com/1251094/132394997-e191c127-077d-476f-a09f-ecdc901ea98d.png)
+
+*Cool shot but he did not catch the frisbee*
+
+## OK
+![petz135](https://user-images.githubusercontent.com/1251094/132395080-284e40e5-c189-422a-8129-09161d0fe0a5.png)
+
+*He caught the frisbee but otherwise this is pretty mediocre. It doesn't convey much action and doesn't show off Gatsby very well*
+
+## Good
+![petz136](https://user-images.githubusercontent.com/1251094/132395206-789bfe97-4835-48f6-8ab6-4d4d6716880a.png)
+
+*A better shot of the catch above. You can see more of Gatsby.*
+
+## Excellent
+![petz139](https://user-images.githubusercontent.com/1251094/132395265-939e0b04-b142-4b0b-88ba-d3db47952d94.png)
+
+*This is slightly awkward but I think that's balanced out by the enthusiasm, action, and athleticism that this picture conveys.*

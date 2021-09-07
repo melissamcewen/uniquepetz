@@ -52,16 +52,16 @@ Example:
 *Batgirl is showcased mid-jump. She is in an enthusiastic leap through the hoop.*
 
 #### Excellent
-- This is as good as it gets, the pet looks highly skilled
-- The pet appears to have confidence and grace
+- This is as good as it gets, the pet looks like they have completely mastered the skill
+- The pet appears to have balance, confidence, and poise
 
 Example:
 
-![](https://dl.airtable.com/.attachmentThumbnails/0636492c96cc6fb04cf789492280161d/63403359)
+![](https://dl.airtable.com/.attachmentThumbnails/e5179114876eaff02a5ad17490595044/35c6f528)
 
-*Unfortunately it's difficult to get a picture of Batgirl that captures this quality. Shambles here is caught in what looks like to me, the most graceful part of a jump. He looks balanced and confident.* 
+*In this picture, Batgirl looks more confident than the "good" one. Her facial expression seems more enthusiastic. The jump looks more graceful and balanced. The pose shows off her athleticism.* 
 
-Of course everyone has their preferences. Like some judges might think the leap in the "Good" Batgirl picture is the paragon of good hoop jumping. I think the mid-jump arc looks much more graceful. 
+Of course everyone has their preferences. Like some judges might think the leap in the "Good" Batgirl picture is the paragon of good hoop jumping. And with Batgirl just the way her face looks can be a challenge since sometimes she looks horrified when she's happy. Haha. 
 
 ### Presentation
 I'm unsure about whether I will keep judging on this. This is basically the composition and quality of the picture itself. Is it balanced? Does it show off the pet's good qualities? With trick shows this can be a matter of choosing the right trick where the pet looks their best. 

@@ -92,9 +92,8 @@ With Boris!
 
 *Now here it gets more subjective. This is also clearly "Circle jump" but to me she appears more athletic and balanced.*
 
-But in general I'm not sure this is the best trick for her. I usually use the "Speak" or "Beg" tricks when I enter her in trick shows. I think it really showcases her personality and best traits. It's easy to get a good picture of her doing it too. 
+But in general I'm not sure this is the best trick for her. I usually use the "Speak" trick when I enter her in trick shows. I think "Speak" really showcases her personality and best traits better than the "Circle jump."
 
 ![petz22](https://user-images.githubusercontent.com/1251094/132383486-05c07621-a6bf-43b2-954c-a7cd9260c4e2.png)
-![petz10](https://user-images.githubusercontent.com/1251094/132383573-0d40ab08-0407-4fd5-af2c-52dffe7a8fe9.png)
 
-
+However, I think her neck looks a little strange. So I might try to teach her some new tricks that are a bit more flattering. Tricks is about training, getting a good picture, and choosing the trick that looks best for your pet.

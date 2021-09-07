@@ -67,3 +67,27 @@ Example:
 
 Of course everyone has their preferences. Like some judges might think the leap in the "Good" Batgirl picture is the paragon of good hoop jumping. And with Batgirl just the way her face looks can be a challenge since sometimes she looks horrified when she's happy. Haha. 
 
+
+## Trick show Examples
+With Boris!
+
+## Bad
+![petz24](https://user-images.githubusercontent.com/1251094/132381665-6ff681f2-b6f3-4a94-9b29-940b631ddf25.png)
+
+
+*Is she even doing a trick? I can't tell.*
+
+## OK
+![petz17](https://user-images.githubusercontent.com/1251094/132381734-34e2dcd0-1495-4905-b3c7-4cfc2bfba608.png)
+
+*She is doing a trick, but I can't really easily tell what trick it is from this picture.*
+
+## Good
+![petz12](https://user-images.githubusercontent.com/1251094/132382308-d9ff0501-eb10-45a5-8399-ea5e15b51cea.png)
+
+*I can easily tell this is the "Circle Jump" trick. She looks slightly uneven though.*
+
+## Excellent
+![petz11](https://user-images.githubusercontent.com/1251094/132382480-5a30b169-1803-4b5f-b021-d25b3bd38d07.png)
+
+*Now here it gets more subjective. This is also clearly "Circle jump" but to me she appears more athletic and balanced.*

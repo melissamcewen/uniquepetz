@@ -76,7 +76,7 @@ If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate 
 - [Carolyn's Creations](http://homebody.eu/carolyn/)
 - [Pikaglitch](https://ri96y.neocities.org/)- breeds, breedfile personality hacking guide
 - [Secret Petz](https://secretpetz.neocities.org)
-- [Ratqueen](http://kiralyikuvaszok.com/ratqueen/)
+- [Ratqueen](http://kiralyikuvaszok.com/ratqueen/) - great OWs and more!
 - [SWK Petz Archive](http://www.petz-archive.com) - Neopets Breeds
 - [NEW LAMBDA RESEARCH FACILITY](https://newlambda.neocities.org/index.html) - interesting alien breeds!
 - [Kalium's](https://lilaclynx.net/petz/index.html): interesting technical info, breeds (including cool Pokemon!)
@@ -109,3 +109,7 @@ If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate 
 - [Vickie's Petz Zoo](https://web.archive.org/web/20180214072903/http://www.angelfire.com/moon2/petzzoo2/)- Truly amazing breeds!
 - [Woodland Park](https://web.archive.org/web/20011212080032fw_/http://www.geocities.com/gaealunavenus2/)- Selective breeds, where I learned how to do selective petz breeding
 - [Petz Warehouse](https://web.archive.org/web/20040729045416/http://www.thepetzwarehouse.com/)- Selective and hexed breeds
+
+
+## Files
+- [Rehosted Breedfiles](https://whiskerwick.boards.net/thread/3339/rehosted-breedfiles-new-files-added) - selection of retro OWs

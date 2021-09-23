@@ -12,7 +12,7 @@ I first played Petz back in the late 90s and was really into it in the early 00s
 
 ## Which game should I play?
 
-While Petz 5 was the last mainline game released, **Petz 4** is the most popular game.
+While Petz 5 was the last mainline game released, **Petz 4** is the most popular game. **Petz 3** still has a devoted fanbase because it loads faster and has some behaviors absent in the later games (dogs dancing to music for example). 
 
 ## Where can I get Petz 4?
 
@@ -78,7 +78,9 @@ Petz 5 cons
 - The new breeds have some major flaws and are largely considered poorly designed
 - Petz files in Petz 5 cannot easily be brought back into Petz 3/4
 
-Personally, I don't think Petz 5 was created with the same care that defines the other games. For example, the new breeds don't seem to have any new animations or behaviors compared to the Petz 4 ones.
+Personally, I don't think Petz 5 was created with the same care that defines the other games. For example, the new breeds don't seem to have any new animations or behaviors compared to the Petz 4 ones. 
+
+**Whatever game you pick please back up your .pet files often! That goes double for Petz 5, which is known to corrupt them randomly.**
 
 ## Where can I get the other PF Magic games?
 

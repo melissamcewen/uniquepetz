@@ -11,7 +11,7 @@ For years I meant to do this but I always got stuck because most instructions fo
 
 <aside>If you're willing to spend money on it, using Parallels is much easier and faster. They offer a free trial if you want to try it out.</aside>
 
-<aside>There aren't many guides on Wine but I recently found a new one for wineskin called <a href="https://toesocks.cuddle-fish.net/wineskinpetz.html">Running Petz on a Mac: A Wineskin Tutorial</a>.</aside>
+<aside>There aren't many guides on Wine but I recently found a new one for wineskin called <a href="https://toesocks.cuddle-fish.net/wineskinpetz.html">Running Petz on a Mac: A Wineskin Tutorial</a>. Another option is [DosBox-X](https://dosbox-x.com/), I haven't tried to get it working on this, but I plan to try soon.</aside>
 
 ## Get VirtualBox
 
@@ -43,3 +43,7 @@ Shared folders are a bit more complicated but allow you to have folders that are
 - Back up your Petz often, especially if you're messing with Petz A or other similar tools
 - If your Petz game loses all the toys in playscene, you may need to reset the registry using RegEdit. The keys are in "HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\PF.Magic"
 - My Windows 10 Virtual Machine often has mysterious slowness that only resolves when I restart my Mac.
+
+## Older games
+I could never get Oddballz to run on DosBox on my Mac, but for some reason putting the DosBox in a Wineskin Wrapper works. [Acid Trip](http://kutheraver.com/acidtrip/) has a preconfigured DosBox for Oddballz available, but I find it performs a bit better if you just download a [regular windows 3.1 for DosBox](https://archive.org/details/msdos_win3_1) and then install Oddballz in it. This all should work for older games like Petz 1 as well.
+

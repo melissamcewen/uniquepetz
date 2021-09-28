@@ -104,6 +104,7 @@ If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate 
 - [Wild Abyss of Angels](http://wildabyss.heliohost.org/WAA.php)- cool clothes, textures and hexed breeds like Scooby Doo
 - [Folderol](https://folderol.neocities.org/)- Cute clothes and toys!
 - [Rook's Castle](https://rookscastle.weebly.com/)- Amazing hex archive!
+- [CatMagic](https://catmagic.neocities.org/)- Clothes and tutorials
 
 ## Web Archive Gems
 - [Vickie's Petz Zoo](https://web.archive.org/web/20180214072903/http://www.angelfire.com/moon2/petzzoo2/)- Truly amazing breeds!

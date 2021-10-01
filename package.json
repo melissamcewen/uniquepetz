@@ -4,7 +4,7 @@
   "description": "A simple blog, set up with Eleventy.",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "NODE_ENV=production eleventy --pathprefix 'unique-petz'"
+    "build": "NODE_ENV=production eleventy --pathprefix 'uniquepetz'"
   },
   "dependencies": {
     "eleventy-plugin-seo": "^0.5.1",

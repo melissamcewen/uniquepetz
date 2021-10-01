@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="https://glitch.com/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A Petz Site"/>
+
+    <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Hack O Lantern - Unique Petz</title>
+
+<meta name="description" content="A vintage Petz 4 Site">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/hack-o-lantern/">
+
+<meta property="og:title" content="Hack O Lantern - Unique Petz">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/hack-o-lantern/">
+<meta property="og:description" content="A vintage Petz 4 Site">
+<meta property="og:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/hack-o-lantern/">
+<meta name="twitter:title" content="Hack O Lantern - Unique Petz">
+<meta name="twitter:description" content="A vintage Petz 4 Site">
+<meta name="twitter:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+
+  </head>
+  
+  <body>
+
+   <div id="layout">
+  <header class="animal-line pixel">
+    <div class="image-cat">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-cat.png?v=1624665657339" class="pixel desktop-image">
+    </div>
+   <div class="image-spider"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fspiderz.png?v=1624658063833" class="pixel desktop-image "></div>
+    <div class="image-mouse">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flilmouse2.png?v=1624659019687" class="pixel desktop-image ">
+    </div>
+  <a href="/" class="image-logo"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flogopixel.png?v=1624645330004" class="pixel responsive" alt="unique petz home"></a>
+    
+
+</header>
+<nav class="pixel-border">
+  <ul id="menu">
+     <li><a href="/about"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-question.png?v=1624598909230" class="pixel"><span class="menu-item">About</span></a></li>
+    <li><a href="/downloads"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696" class="pixel"> <span class="menu-item">Downloads</span></a></li>
+        <li><a href="/links"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-link.png?v=1624598912179" class="pixel"> <span class="menu-item">Links</span></a></li>
+    <li><a href="/guides"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-guides.png?v=1624598893703" class="pixel"><span class="menu-item">Guides</span></a></li>
+  
+    <li><a href="/laboratory"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-lab.png?v=1624598886057"> <span class="menu-item">Laboratory</span></a></li>
+  </ul>
+</nav>
+<main>
+      
+<article>
+    <h1>Hack O Lantern</h1>
+<p>The Jack O Lantern toy is known for triggering &quot;scared&quot; and &quot;angry&quot; emotions in petz. Thanks to Reflet we know the strings associated with these emotions. You can see a list of them in the &quot;Emotions&quot; sheet of the <a href="https://docs.google.com/spreadsheets/d/1iAxztX3E9gn8TRoZ3bwG6EBdSIAuu84F8wT8GxZcle4/edit#gid=337215586">Petz Stuff</a> spreadsheet.</p>
+<ul>
+<li>01	Happy</li>
+<li>02	Sad</li>
+<li>03	Gratitude</li>
+<li>04	Angry</li>
+<li>05	Happy</li>
+<li>06	Fear</li>
+<li>07	Generous</li>
+<li>08	Jealousy</li>
+<li>09	Pride</li>
+<li>0A[^1]	Shame</li>
+</ul>
+<p>[^1]: These are hex numbers so this is 10 in decimal</p>
+<p>I used <a href="http://petz.filthyhippie.net/">Omar's Petz Debugger</a> to see what emotions Petz had when playing with the toy. I set the checkbox to &quot;Emotions&quot; and could see 4 (angry) and 6 (fear).</p>
+<pre><code>06 00 00 6A 64 6A 04
+</code></pre>
+<p>Search for this in a hex editor and change that last <code>04</code> (angry) to another emotion!</p>
+<p>You can do the same for the <code>06</code> here</p>
+<pre><code>24 00 07 00 00 50 6A 06
+</code></pre>
+<p>Remember these are hex numbers!</p>
+<p>This doesn't change some of the other actions in this function, which seem to trigger states like &quot;StateTripAndSkid&quot; so you may see your petz jump up in fear but they won't have the &quot;fear&quot; emotion.</p>
+<p>If you want to confirm, you can see in the debugger the emotion is now &quot;3&quot;</p>
+<p><img src="https://user-images.githubusercontent.com/1251094/131078662-7644b341-6672-4741-87a2-3548b1a9d62b.jpg" alt="CleanShot 2021-08-27 at 00 50 32@2x"></p>
+<h2>Other useful Jack O Lantern info</h2>
+<p>For changing the flavor search for</p>
+<pre><code>01 00 00 8B 06 6A 1B
+</code></pre>
+<p>The <code>1B</code> is the original flavor. <a href="https://gyiyg.neocities.org/itemhextut.html">gyiyg's guide has a reference on how to change it</a></p>
+<p>For color search for</p>
+<pre><code>00 8B 16 6A 08
+</code></pre>
+<p>And change the <code>08</code></p>
+<h2>Technical details</h2>
+<p>The Jack O Lantern has its own special function I found in IDA Pro (a disassembler). Petz hexer Gyigyg has a very good guide to using this in the <a href="https://gyiyg.neocities.org/itemhextut.html">toy internal adjective hexing tutorial</a>. The function is called <code>MakePetzReact</code> and I've never seen it in any other toy. Search for the <code>4</code> hex byte. Then in the search results click on the result that's in the <code>MakePetzReact</code> function and is a <code>push 4</code>. Do the same for <code>5</code>. Then you can use the hex view to find where it is in the file and edit it in a hex editor.</p>
+
+</article>
+
+</main>
+
+</div>
+  </body>
+</html></body></html>

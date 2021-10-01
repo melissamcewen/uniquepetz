@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="https://glitch.com/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A Petz Site"/>
+
+    <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Tracking Petz With Airtable - Unique Petz</title>
+
+<meta name="description" content="A vintage Petz 4 Site">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/airtable/">
+
+<meta property="og:title" content="Tracking Petz With Airtable - Unique Petz">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/airtable/">
+<meta property="og:description" content="A vintage Petz 4 Site">
+<meta property="og:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/airtable/">
+<meta name="twitter:title" content="Tracking Petz With Airtable - Unique Petz">
+<meta name="twitter:description" content="A vintage Petz 4 Site">
+<meta name="twitter:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+
+  </head>
+  
+  <body>
+
+   <div id="layout">
+  <header class="animal-line pixel">
+    <div class="image-cat">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-cat.png?v=1624665657339" class="pixel desktop-image">
+    </div>
+   <div class="image-spider"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fspiderz.png?v=1624658063833" class="pixel desktop-image "></div>
+    <div class="image-mouse">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flilmouse2.png?v=1624659019687" class="pixel desktop-image ">
+    </div>
+  <a href="/" class="image-logo"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flogopixel.png?v=1624645330004" class="pixel responsive" alt="unique petz home"></a>
+    
+
+</header>
+<nav class="pixel-border">
+  <ul id="menu">
+     <li><a href="/about"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-question.png?v=1624598909230" class="pixel"><span class="menu-item">About</span></a></li>
+    <li><a href="/downloads"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696" class="pixel"> <span class="menu-item">Downloads</span></a></li>
+        <li><a href="/links"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-link.png?v=1624598912179" class="pixel"> <span class="menu-item">Links</span></a></li>
+    <li><a href="/guides"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-guides.png?v=1624598893703" class="pixel"><span class="menu-item">Guides</span></a></li>
+  
+    <li><a href="/laboratory"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-lab.png?v=1624598886057"> <span class="menu-item">Laboratory</span></a></li>
+  </ul>
+</nav>
+<main>
+      
+<article>
+    <h1>Tracking Petz With Airtable</h1>
+<p>I have used AirTable to track petz stuff for awhile. My personal one is on the <a href="/crew">crew page</a>. As it's gotten extremely complex, I thought I'd make a simpler version for people to use with some basic instructions.</p>
+<p><a href="https://airtable.com/shrRiwF0RaSC3kp1z">Petz Tracker Template</a></p>
+<p>See the Airtable documentation on how to <a href="https://support.airtable.com/hc/en-us/articles/202584549-Duplicating-an-existing-base">Duplicating an existing base
+</a> for info on how to copy it. You'll need to make an Airtable account and full disclosure I may receive some AirTable credits which will feed my data addiction (I use AirTable for tracking my clothing too).</p>
+<p>I added some demo data and comments but here are some instructions.</p>
+<h2>Basics</h2>
+<p><img src="https://user-images.githubusercontent.com/1251094/132112088-5d206bea-6edd-48b5-be6a-13b13974a971.jpg" alt="CleanShot 2021-09-04 at 20 36 16@2x"></p>
+<ol>
+<li>There are three tables: Petz, Show Pictures, and Show Tracker. &quot;Pets: tracks your pets basic info. &quot;Show Pictures&quot; is a place to upload individual pictures for entering shows. And &quot;Show Tracker&quot; is for tracking show entries and results. Each table is connected. &quot;Show Pictures&quot; connects to a Pet to get data on show name and call name. Each Show Tracker entry is associated with a Show Picture, so then that data can be used to calculate a pet's total show points. Airtable is pretty powerful so there are all kinds of other tables and calculations you could add if you wanted. For example, I have a &quot;family tree&quot; table that connects pet entries together to show a pet's children and parents.</li>
+<li>Views are used to display a table. The basic one used here is the &quot;Grid&quot; which is like a spreadsheet. I used the &quot;Gallery&quot; one for my Crew page.</li>
+<li>You can add a new pet to the table here. Feel free to add more fields like date of birth, breed, or anything else you want to track.</li>
+</ol>
+<h2>Show Pictures</h2>
+<p><img src="https://user-images.githubusercontent.com/1251094/132112203-32c7ecfc-8e5b-4e2f-9394-f52b10a926ed.jpg" alt="CleanShot 2021-09-04 at 20 44 53@2x"></p>
+<ol>
+<li>The show table is a bit more complicated. If you use it correctly it can generate code to paste on a forum so it's easier to enter shows. It will only work if you only have 1 picture per show picture record though.</li>
+<li>This field connects the show picture to the pet. Without that connection the forum code won't have the right show or call name.</li>
+<li>Forum code. If this works you can just copy and paste it on most show forums.</li>
+</ol>
+<h2>Show Tracker</h2>
+<p>This is meant for tracking each individual entry. So one picture you entered in one show. Then you can also track how many points (if any) the entry won. This is used for calculation a pet's total points. You can get fancy with this, for example I have another table in my main AirTable that tracks different types of shows, different awards, and more. But I wanted to keep this one relatively simple.</p>
+
+</article>
+
+</main>
+
+</div>
+  </body>
+</html></body></html>

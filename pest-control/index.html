@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="https://glitch.com/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A Petz Site"/>
+
+    <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>How to remove roaches from playscenes - Unique Petz</title>
+
+<meta name="description" content="A vintage Petz 4 Site">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/pest-control/">
+
+<meta property="og:title" content="How to remove roaches from playscenes - Unique Petz">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/pest-control/">
+<meta property="og:description" content="A vintage Petz 4 Site">
+<meta property="og:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/pest-control/">
+<meta name="twitter:title" content="How to remove roaches from playscenes - Unique Petz">
+<meta name="twitter:description" content="A vintage Petz 4 Site">
+<meta name="twitter:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+
+  </head>
+  
+  <body>
+
+   <div id="layout">
+  <header class="animal-line pixel">
+    <div class="image-cat">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-cat.png?v=1624665657339" class="pixel desktop-image">
+    </div>
+   <div class="image-spider"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fspiderz.png?v=1624658063833" class="pixel desktop-image "></div>
+    <div class="image-mouse">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flilmouse2.png?v=1624659019687" class="pixel desktop-image ">
+    </div>
+  <a href="/" class="image-logo"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flogopixel.png?v=1624645330004" class="pixel responsive" alt="unique petz home"></a>
+    
+
+</header>
+<nav class="pixel-border">
+  <ul id="menu">
+     <li><a href="/about"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-question.png?v=1624598909230" class="pixel"><span class="menu-item">About</span></a></li>
+    <li><a href="/downloads"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696" class="pixel"> <span class="menu-item">Downloads</span></a></li>
+        <li><a href="/links"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-link.png?v=1624598912179" class="pixel"> <span class="menu-item">Links</span></a></li>
+    <li><a href="/guides"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-guides.png?v=1624598893703" class="pixel"><span class="menu-item">Guides</span></a></li>
+  
+    <li><a href="/laboratory"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-lab.png?v=1624598886057"> <span class="menu-item">Laboratory</span></a></li>
+  </ul>
+</nav>
+<main>
+      
+<article>
+    <h1>How to remove roaches from playscenes</h1>
+<p>For playscene hexers, the kitchen is a popular base because it has cabinets and stuff. But the roaches can be offputting. Removing them seems pretty simple! Open the playscene in a hex editor and search for the hex</p>
+<pre><code>B0 01 C3 90 90 90 90 90
+</code></pre>
+<p>Now you'll want to flip that <code>01</code> to a <code>00</code> so:</p>
+<pre><code>B0 00 C3 90 90 90 90 90
+</code></pre>
+<p>That's it! Have fun with your roach free playscenes!</p>
+<h2>The Technical Details</h2>
+<p><img src="https://user-images.githubusercontent.com/1251094/131076349-d45a73c5-29cc-49d0-8768-8a36552e1516.jpg" alt="CleanShot 2021-08-27 at 00 25 54@2x"></p>
+<p>I found this by opening Kitchen.env in a disassembler called IDA Pro. I found this function called <code>GetHasCockroaches</code> and guessed it had something to do with roaches... because of the name LOL. Also that it was a &quot;bool&quot; which means boolean and that means it has the value of true or false. In binary that's 0 or 1. And I just found the 1 (true) in the hex view and changed it to 0 (false). I'd had trouble testing this in the past since I rarely see roaches. But luckily, <a href="http://www.mythicsilence.com/malevolent/">Mythic Silence</a> had a roach problem and was able to test for me.</p>
+
+</article>
+
+</main>
+
+</div>
+  </body>
+</html></body></html>

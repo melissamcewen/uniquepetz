@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="https://glitch.com/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A Petz Site"/>
+
+    <link rel="stylesheet" type="text/css" href="/public/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Petz Mac Guide - Unique Petz</title>
+
+<meta name="description" content="A vintage Petz 4 Site">
+<meta name="robots" content="index,follow">
+<meta name="author" content="undefined">
+
+<link rel="canonical" href="https://undefined.glitch.me/vm-tips/">
+
+<meta property="og:title" content="Petz Mac Guide - Unique Petz">
+<meta property="og:type" content="article">
+
+<meta property="og:url" content="https://undefined.glitch.me/vm-tips/">
+<meta property="og:description" content="A vintage Petz 4 Site">
+<meta property="og:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://undefined.glitch.me/vm-tips/">
+<meta name="twitter:title" content="Petz Mac Guide - Unique Petz">
+<meta name="twitter:description" content="A vintage Petz 4 Site">
+<meta name="twitter:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+
+
+  </head>
+  
+  <body>
+
+   <div id="layout">
+  <header class="animal-line pixel">
+    <div class="image-cat">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbalance-cat.png?v=1624665657339" class="pixel desktop-image">
+    </div>
+   <div class="image-spider"> <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fspiderz.png?v=1624658063833" class="pixel desktop-image "></div>
+    <div class="image-mouse">
+      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flilmouse2.png?v=1624659019687" class="pixel desktop-image ">
+    </div>
+  <a href="/" class="image-logo"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flogopixel.png?v=1624645330004" class="pixel responsive" alt="unique petz home"></a>
+    
+
+</header>
+<nav class="pixel-border">
+  <ul id="menu">
+     <li><a href="/about"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-question.png?v=1624598909230" class="pixel"><span class="menu-item">About</span></a></li>
+    <li><a href="/downloads"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696" class="pixel"> <span class="menu-item">Downloads</span></a></li>
+        <li><a href="/links"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-link.png?v=1624598912179" class="pixel"> <span class="menu-item">Links</span></a></li>
+    <li><a href="/guides"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-guides.png?v=1624598893703" class="pixel"><span class="menu-item">Guides</span></a></li>
+  
+    <li><a href="/laboratory"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-lab.png?v=1624598886057"> <span class="menu-item">Laboratory</span></a></li>
+  </ul>
+</nav>
+<main>
+      
+<article>
+    <h1>How to get Petz 4 running on a modern Mac</h1>
+<p>For years I meant to do this but I always got stuck because most instructions for Petz 4 on a Mac use a software called Wine. Wine is extremely buggy and I could never get it to run correctly. So recently I decided to do something else and finally got it running correctly. This all uses free software.</p>
+<aside>If you're willing to spend money on it, using Parallels is much easier and faster. They offer a free trial if you want to try it out.</aside>
+<aside>There aren't many guides on Wine but I recently found a new one for wineskin called <a href="https://toesocks.cuddle-fish.net/wineskinpetz.html">Running Petz on a Mac: A Wineskin Tutorial</a>. Another option is [DosBox-X](https://dosbox-x.com/), I haven't tried to get it working on this, but I plan to try soon.</aside>
+<h2>Get VirtualBox</h2>
+<p>VirtualBox is software that allows you to run virtual machines on your computer. Virtual machines are like fake computers that live in your real computer. You can download VirtualBox on <a href="https://www.virtualbox.org/">virtualbox.org</a></p>
+<h2>Install Windows 10</h2>
+<p><a href="https://archive.org/details/Windows10Enterprise2016LTSBx86">Grab this Windows 10 iso from Archive.org</a>. An iso is like a fake CD rom you can use on your brand new fake computer. Then follow the steps in the <a href="https://www.youtube.com/watch?v=JT8EXoobjSc">How to Install Windows 10 on VirtualBox</a> video. By the end of the video you should have a brand new Windows 10 VM running on your Mac! Make sure to follow the &quot;Guest Additions&quot; step so you can share a folder on your Mac with your Windows VM.</p>
+<aside>I tried other versions of Windows and most didn't run well in VirtualBox. XP for example is really slow and I have no idea why. Windows 10 also has a "compatability mode" that allows you to play even older games.</aside>
+<h2>Get Petz 4</h2>
+<p>There are many copies of Petz 4 available online but I like the one available <a href="https://reflettage.wixsite.com/yabiko/download">on Yabiko, a Petz website.</a> Put it in a folder on your Mac.</p>
+<h2>Get the Petz 4 folder onto your Virtual Machine</h2>
+<p>To get folders from your Mac to your Windows 10 Virtual Machine, you can either drag and drop or set up a &quot;shared folder.&quot;To enable drag and drop, go to &quot;Devices&quot; on the Mac Menu bar while your Windows 10 VM is open. Then select &quot;drag and drop&quot; then &quot;bidirectional&quot;. Now you can drag your Petz folder from your Mac Finder right into the Virtual Machine desktop. From your Virtual Machine, open the folder you just dragged and click on the Petz game. Enjoy!</p>
+<h2>Optional: Shared folders</h2>
+<p>Shared folders are a bit more complicated but allow you to have folders that are accessible from both your Mac and inside the Virtual Machine. Go to &quot;Devices&quot; on the Mac Menu bar while your Windows 10 VM is open. Then click &quot;Shared Folders&quot; and finally into the &quot;Shared Folders Options.&quot; Click the icon on the right that looks like a folder with a plus icon. For &quot;folder path&quot; click on it, select &quot;other&quot;, then navigate to the folder where you put the Petz 4 game. Click &quot;Open&quot; on the bottom of the folder selection window to select it. Open up a Windows Explorer window and navigate to &quot;Network&quot;. Your shared folders will be in the &quot;Vboxsr&quot; folder</p>
+<aside>You can ignore the other options, but if you want to keep this folder attached every time you open the VM, check the "make permanent" checkbox. I like to keep at least one shared folder attached because I use it to back up my petz and save pictures to. VirtualBox can be buggy so I recommend backing up your Petz often.</aside>
+<h2>Additional tips</h2>
+<ul>
+<li>There are now many cool Petz dev tools and utilities (see <a href="https://petz.fandom.com/wiki/Tools_and_Software">this list on the Petz wiki</a>). The Petz 4 copy I recommend comes with Petz A already installed which has utilities for breeding petz and trimming large petz files. I also really like LNZ Pro for file editing and Petz Pic factory for generating pictures from Petz files.</li>
+<li>Back up your Petz often, especially if you're messing with Petz A or other similar tools</li>
+<li>If your Petz game loses all the toys in playscene, you may need to reset the registry using RegEdit. The keys are in &quot;HKEY_CLASSES_ROOT\VirtualStore\MACHINE\SOFTWARE\PF.Magic&quot;</li>
+<li>My Windows 10 Virtual Machine often has mysterious slowness that only resolves when I restart my Mac.</li>
+</ul>
+<h2>Older games</h2>
+<p>I could never get Oddballz to run on DosBox on my Mac, but for some reason putting the DosBox in a Wineskin Wrapper works. <a href="http://kutheraver.com/acidtrip/">Acid Trip</a> has a preconfigured DosBox for Oddballz available, but I find it performs a bit better if you just download a <a href="https://archive.org/details/msdos_win3_1">regular windows 3.1 for DosBox</a> and then install Oddballz in it. This all should work for older games like Petz 1 as well.</p>
+
+</article>
+
+</main>
+
+</div>
+  </body>
+</html></body></html>

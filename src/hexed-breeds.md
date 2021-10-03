@@ -16,7 +16,7 @@ Turn basic breeds into Honey Bears
 These are based on a pet I bred that I thought was hilarious. His name is "scammer". He looks like a movie villain. Overwrites the B+W Shorthair breed. Put in resources/catz and rename to B+W Shorthair.
 
 
-* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FB%2BW%20Shorthair%20honeybear.cat?v=1627594278690)
+* [Petz 4 breedfile](/public/downloads/honeybearified.zip)
 
 
 ### Alley Cat Honeybearified
@@ -25,8 +25,8 @@ These are based on a pet I bred that I thought was hilarious. His name is "scamm
 
 Alley cats disguised as big fluffy Honey Bears. Overwrites the Alley Cat breed. Put in resources/catz and rename to Alley Cat.
 
-* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAlley%20Cat%20-%20Honeybearified.cat?v=1622943211740)
-* [Unibreed (works in all games and should retain more honeybearish look since doesn't have regular Alley permaskinny)](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAlley%20Cat%20-%20Honeybearified%20UB.cat?v=1622943244520)
+* [Petz 4 breedfile](/public/downloads/alley-honeybearified.zip)
+* [Unibreed (works in all games and should retain more honeybearish look since doesn't have regular Alley permaskinny)](https://drive.google.com/file/d/1waRYtDcW2o94QptyvjL_L5Ky1z4TzdPz/view?usp=sharing)
 
 ### Orange Shorthair Honeybearified
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Foshiehoney.png?v=1627616907362)
@@ -46,7 +46,7 @@ Poofy attitude machines. Overwrites the Chinchilla breed. Put in resources/catz 
 ## Calico Honeybearified
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhoneybearcalico.png?v=1627680568317)
 
-Heart shaped nose + honey bear looks. 
+Heart shaped nose + honey bear looks.
 
 * [Petz 4 Breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCalico-honeybearified.cat?v=1627680556526)
 
@@ -56,7 +56,7 @@ Heart shaped nose + honey bear looks.
 
 Snobby little ponies. Poodle overwrite hexed from [the Laptop Ponies](https://seeingstars.site/breedfiles.html). Feel free to use as hexing base.
 
-*   [Poodle.dog](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FPoodle.dog?v=1621028141546)
+*   [Poodlecorn.zip](/public/downloads/poodlecorn.zip)
 
 ## Large Munsterlander (2000ish)
 
@@ -64,4 +64,4 @@ Snobby little ponies. Poodle overwrite hexed from [the Laptop Ponies](https://se
 
 Created a very long time ago. It's very of its time, I think it was hexed off the border collie file that was popular back then. Dalmatian OW.
 
-* [dalmatianow.dog](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FMunsterlander-Dalmatian%20OW.dog?v=1623532550178)
+* [dalmatianow.dog](/public/downloads/munsterlander.zip)

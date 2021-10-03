@@ -40,7 +40,7 @@ aside {
 
 .breed-pics a:before,
 .download-link:before {
-  content: url("https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmenu-icon-download.png?v=1624598899696");
+  content: url("/public/images/menu-icon-download.png");
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
@@ -303,7 +303,7 @@ iframe {
   .desktop-image {
     display: block;
   }
-  
+
   .mobile-image {
     display: none;
   }

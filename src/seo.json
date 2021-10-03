@@ -2,6 +2,6 @@
   "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
   "title": "Unique Petz",
   "description": "A vintage Petz 4 Site",
-  "url": "glitch-default",
+  "url": "https://uniquepetz.spellwork.dev/",
   "image": "https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337"
 }

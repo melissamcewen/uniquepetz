@@ -4,7 +4,7 @@
   "description": "A simple blog, set up with Eleventy.",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "NODE_ENV=production eleventy --pathprefix 'uniquepetz'"
+    "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {
     "eleventy-plugin-seo": "^0.5.1",
@@ -17,10 +17,7 @@
     "node": "12"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-eleventy"
-  },
-  "glitch": {
-    "projectType": "generated_static"
+    "url": "https://github.com/melissamcewen/uniquepetz"
   },
   "license": "MIT",
   "keywords": [

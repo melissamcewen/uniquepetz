@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-tags: ["pages", "realistic-breeds"]
+tags: ['pages', 'realistic-breeds']
 description: Selective/genexed breed based on the real breed
 title: Affenpinscher
 ---
@@ -25,9 +25,9 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz237.png?v=1625361034988" >
+      <img src="/public/images/aff.png" >
       <figcaption>Black<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Faff.zip?v=1628641955463">Download pair</a></figcaption>
+       <a href="/public/downloads/aff.zip">Download pair</a></figcaption>
     </figure>
   </div>
 

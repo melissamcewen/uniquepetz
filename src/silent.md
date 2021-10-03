@@ -16,7 +16,7 @@ Then in any cat you want to make silent, use Lnz Pro and remove the current `[So
 \resource\catz\silent\silent.txt
 ```
 
-<a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsilent%20catz.zip?v=1627161929338" class="download-link">Download</a>
+<a href="/public/downloads/silent%20catz.zip?v=1627161929338" class="download-link">Download</a>
 
 For dogz
 
@@ -25,4 +25,4 @@ For dogz
 \resource\dogz\silent\silent.txt
 ```
 
-<a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsilent%20dogz.zip?v=1627161878655" class="download-link">Download</a>
+<a href="/public/downloads/silent%20dogz.zip?v=1627161878655" class="download-link">Download</a>

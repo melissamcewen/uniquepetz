@@ -20,7 +20,7 @@ If you aren't hex saavy, here "nonby", a little fun cat you can download. Their 
 
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fnonby.png?v=1625115509494 2x">
 
-<a class="download-link" href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FNonby.pet?v=1625117242781">Download Nonby</a>
+<a class="download-link" href="/public/downloads/nonby.zip">Download Nonby</a>
 
 
 

@@ -9,6 +9,6 @@ According to research on [petz personality traits posted on RKC](https://petzfor
 
 <video autoplay loop muted playsinline><source src='https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-08-09%20at%2019.34.14.mp4?v=1628557178941' type='video/mp4'></video>
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Finsane-dog.zip?v=1628557248410)
+[Download](/public/downloads/insane-dog.zip?v=1628557248410)
 
 

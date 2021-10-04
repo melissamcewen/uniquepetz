@@ -33,7 +33,7 @@ Alley cats disguised as big fluffy Honey Bears. Overwrites the Alley Cat breed. 
 
 Beefy but scaredy! Overwrites the Orange Shorthair breed. Put in resources/catz and rename to Orange Shorthair.
 
-* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FOrange%20Shorthair%20-%20honeybearified.cat?v=1627616960711)
+* [Petz 4 breedfile](https://drive.google.com/file/d/1o8v8v7pU4uRdhVL0t6vw6r3p1UAw7sc6/view?usp=sharing)
 
 ### Chinchilla Honeybearified
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhoneybearchinchi.png?v=1627679166946)
@@ -41,14 +41,14 @@ Beefy but scaredy! Overwrites the Orange Shorthair breed. Put in resources/catz 
 Poofy attitude machines. Overwrites the Chinchilla breed. Put in resources/catz and rename to Chinchilla
 
 
-* [Petz 4 breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FChinchilla%20Persian%20-%20honeybearified.cat?v=1627679199714)
+* [Petz 4 breedfile](https://drive.google.com/file/d/1o8v8v7pU4uRdhVL0t6vw6r3p1UAw7sc6/view?usp=sharing)
 
 ## Calico Honeybearified
 ![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhoneybearcalico.png?v=1627680568317)
 
 Heart shaped nose + honey bear looks.
 
-* [Petz 4 Breedfile](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCalico-honeybearified.cat?v=1627680556526)
+* [Petz 4 Breedfile](https://drive.google.com/file/d/1Y2RxctWPAG5--i9o_KvlvaCuMfeoi7ac/view?usp=sharing)
 
 ## Poodlecorn
 

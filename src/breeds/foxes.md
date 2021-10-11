@@ -12,6 +12,6 @@ Both use P5 breeds. The Catz has Egyptian Mau ears and the Dogz has a GSD face, 
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffoxes.png?v=1629161667992 2x">
 
 
-[Download catz version](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffox-cat.zip?v=1629161719813)
+[Download catz version](/public/downloads/fox-cat.zip?v=1629161719813)
 
-[Download dogz version](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffox%20gsd.zip?v=1629161723428)
+[Download dogz version](/public/downloads/fox%20gsd.zip?v=1629161723428)

@@ -9,7 +9,7 @@ The Petz 5 Golden Retriever is essentially a lab with some modifications. I want
 
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgoldenfam.png?v=1628384795479 2x">
 
-[Download pairs](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgolden.zip?v=1628384881376)
+[Download pairs](/public/downloads/golden.zip?v=1628384881376)
 
 ## Standard
 

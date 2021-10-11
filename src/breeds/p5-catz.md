@@ -16,5 +16,5 @@ I quite like many of the Petz 5 Catz breeds, so for this part of the project, I 
 
 In addition I genexed in traits I found desirable and fun. The most changed breed is the Scottish Fold which only carries the ears of the original because I just didn't want the rest of it. For P4 these will require the converted P5 cat breedfiles.
 
-[Download breeding pairs](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcatz.zip?v=1628454083910)
+[Download breeding pairs](/public/downloads/catz.zip?v=1628454083910)
 

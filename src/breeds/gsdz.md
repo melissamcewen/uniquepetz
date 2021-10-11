@@ -21,7 +21,7 @@ This is a selective breed with some genexing. It really doesn't look much like a
 - Tail: Sheepdog (long)
 - Coat: Sheepdog
 
-[Download pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-p4.zip?v=1628383971336)
+[Download pair](/public/downloads/gsd-p4.zip?v=1628383971336)
 
 ### V2: German Shepherd v2
 This is the P5 German Shepherd with parts from a few other breeds. I quite like this especially for breeding as I'm not fond of the German Shepherd ears on other breeds for example. This breed is low gen and completely genexed. Requires the German Shepherd breed in Petz 3/4.
@@ -34,7 +34,7 @@ This is the P5 German Shepherd with parts from a few other breeds. I quite like 
 - Feet: Labrador
 - Tail: Sheepdog (long)
 
-[Download pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-p5.zip?v=1628383949785)
+[Download pair](/public/downloads/gsd-p5.zip?v=1628383949785)
 
 
 ## V3: GSDZ with P5 Face
@@ -43,5 +43,5 @@ If you want the GSD face without the breeding chaos of the GSD markings/coat (wh
 <img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdface.png?v=1628392941471 2x">
 
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsd-v3.zip?v=1628392934473)
+[Download](/public/downloads/gsd-v3.zip?v=1628392934473)
 

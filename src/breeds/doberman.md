@@ -27,14 +27,14 @@ title: Doberman
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz241.png?v=1625288211777">
       <figcaption> Black & Rust cropped<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdoberman-cropped.zip?v=1628641955620">Download Pair</a></figcaption>
+       <a href="/public/downloads/doberman-cropped.zip?v=1628641955620">Download Pair</a></figcaption>
     </figure>
   </div>
     <div>
     <figure>
       <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdobermanuncrop.png?v=1625364235409">
       <figcaption> Black & Rust uncropped<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdoberman-uncropped.zip?v=1628641955888">Download Pair</a></figcaption>
+       <a href="/public/downloads/doberman-uncropped.zip?v=1628641955888">Download Pair</a></figcaption>
     </figure>
   </div>
 </div>

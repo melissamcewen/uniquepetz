@@ -13,7 +13,7 @@ It's hard to make anything that looks even a little like a papillon from just P3
 
 For this I kept the original head and markings. I replaced the tail with a fluffy long sheepdog tail, kind of like the Black Mist fixed file from way back. The coat is a luxurious poodle coat. And the rest is chihuahua. Then as a final touch they are minis! Requires papillon breedfile in P3/4.
 
-[Download breeding pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fnewpap.zip?v=1628463170002)
+[Download breeding pair](/public/downloads/newpap.zip?v=1628463170002)
 
 
 ## Pappish
@@ -23,4 +23,4 @@ For this I kept the original head and markings. I replaced the tail with a fluff
 The Pappish uses no P5 breeds, just P3/4 breeds. I wanted something fluffy, with big ears, and bicolor with as much white as I could get. They don't look much like real papillons but they are cute!
 
 
-[Download breeding pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpappish.zip?v=1628463167158)
+[Download breeding pair](/public/downloads/pappish.zip?v=1628463167158)

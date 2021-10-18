@@ -80,14 +80,16 @@
 <p>&quot;Stuck&quot; pregnancies have been a problem in the Petz games for over a decade now. Stuck pregnancies is when a pet just doesn't give birth no matter how many days or weeks have passed. The old method for fixing them involved setting the computer clock really far into the future and then to the past, sometimes over and over again. Petz reversed engineer Reflet discovered the cause in the file. It turns out the cause is an erroneous date of birth set when the baby is conceived. Because of the discovery we can now hex to fix stuck pregnancies. However, it's not easy. I'll try to explain as best as I can.</p>
 <p>This guide assumes general knowledge of hex editors and how to use PetzByte.</p>
 <h2>Finding the &quot;date of birth&quot;</h2>
-<p>A pregnant pet file contains both the mother and the baby in one file. The date of birth should be in the section that contains the baby, at the end of the family tree data. To find it you can search for the string <code>p.f.magicpetzIII</code>. The fourth result is where you want to be.</p>
-<p>Now go backwards one byte, the byte you skip is usually <code>01</code> or <code>00</code>. Then the next four bytes is the date of birth! That's what we'll change in the next step.</p>
+<p>A pregnant pet file contains both the mother and the baby in one file. The date of birth should be in the section that contains the baby, at the end of the family tree data. To find it I often search for the dad's name. In this case, the dad was named &quot;Alpine&quot;.  Or you can try searching for the string <code>p.f.magicpetzIII</code>, it's usually the fourth result.</p>
+<p>Now go backwards one byte, the byte you skip is usually <code>01</code> or <code>00</code>. Then the next four bytes is the date of birth! I've highlighted the area in the screenshot below though of course the numbers will be different for each pet.</p>
+<p><img src="https://user-images.githubusercontent.com/1251094/137656204-944cf549-c7b6-436b-8957-1873e74ff224.jpg" alt="CleanShot 2021-10-17 at 20 36 35@2x"></p>
+<p>That's what we'll change in the next step.</p>
 <h2>Fixing the date of birth</h2>
 <p>I'm not going to explain what this value is, because it gives me a headache. But you can just replace it with the value in the example.</p>
 <pre><code>3A 1B 65 61
 </code></pre>
 <p>If you really want to know the hacker details and such, the date is a unix hexadecimal epoch time stamp with the bytes in reverse order.
-<a href="http://www.fmdiff.com/fm/timestamp.php">I used this converter</a> when I first hexed an unstuck pregnancy.</p>
+<a href="http://www.fmdiff.com/fm/timestamp.php">I used this converter</a> when I first hexed an unstuck pregnancy. The date I did that was Oct 12th or so, which is what the timestamp above is.</p>
 <h2>Balancing the checksum</h2>
 <p>Now you need to balance the checksum with Petz Byte. If you bring the pet into the game, the baby should be born now.</p>
 

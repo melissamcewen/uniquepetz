@@ -25,7 +25,7 @@ title: Cocker Spaniel
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcocker.png?v=1629161245605">
+      <img src="/public/images/cocker.png">
       <figcaption> Light<br/>
        <a href="/public/downloads/cocker-light.zip?v=1629161290536">Download Pair</a></figcaption>
     </figure>

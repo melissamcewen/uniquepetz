@@ -17,21 +17,21 @@ On a monocolor dali at marking factor 100 in both slots.
 
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-bulldog.png?v=1625286500178">
+      <img src="/public/images/dali-bulldog.png">
       <figcaption>Bulldog</figcaption>
     </figure>
 </div>
 
 <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-chi-patch-cream.png?v=1625286888398">
+      <img src="/public/images/dali-chi-patch-cream.png">
       <figcaption>Chihuahua cream chest patch/golden brows (seed 0xC857)</figcaption>
     </figure>
 </div>
 
 <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-gsd2.png?v=1625362102802">
+      <img src="/public/images/dali-gsd2.png">
       <figcaption>GSD(seed 0xC857)</figcaption>
     </figure>
 </div>
@@ -40,7 +40,7 @@ On a monocolor dali at marking factor 100 in both slots.
 
 <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpappy-dali.png?v=1625286054397">
+      <img src="/public/images/pappy-dali.png">
       <figcaption>Papillion brown head markings</figcaption>
     </figure>
 </div>
@@ -48,13 +48,13 @@ On a monocolor dali at marking factor 100 in both slots.
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdali-pappy-dark.png?v=1625363503427">
+      <img src="/public/images/dali-pappy-dark.png">
       <figcaption>Papillion black head markings</figcaption>
     </figure>
 </div>
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjrt-dali.png?v=1625286102521">
+      <img src="/public/images/jrt-dali.png">
       <figcaption>Jrt (seed 0xDB5A)</figcaption>
     </figure>
   </div>
@@ -82,13 +82,13 @@ Todo:
 
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz265.png?v=1625362154982">
+      <img src="/public/images/petz265.png">
       <figcaption>"Calico": The cause is unknown but seems to be related to GSD markings. This dog has set one: GSD/GSD. Set 2: Great dane (1)/Great Dane (6)</figcaption>
     </figure>
 </div>
   <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flab-jowl-markings.png?v=1625362933706">
+      <img src="/public/images/lab-jowl-markings.png">
       <figcaption>"Golden" lab jowl contrast. Only occurs with the lab coat, markings around jowl a bit darker than the main coat color. Seed FC15 here.</figcaption>
     </figure>
 </div>
@@ -100,31 +100,31 @@ Todo:
 
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley-2-slotb.png?v=1629408024890">
+      <img src="/public/images/alley-2-slotb.png">
       <figcaption>Alley (marking factor 100)</figcaption>
     </figure>
 </div>
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley50.png?v=1629407936471">
+      <img src="/public/images/alley50.png">
       <figcaption>Alley (marking factor 50)</figcaption>
     </figure>
 </div>
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley40.png?v=1629407936471">
+      <img src="/public/images/alley40.png">
       <figcaption>Alley (marking factor 40)</figcaption>
     </figure>
 </div>
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley-30.png?v=1629407936471">
+      <img src="/public/images/alley-30.png">
       <figcaption>Alley (marking factor 30)</figcaption>
     </figure>
 </div>
 <div>
   <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Falley10.png?v=1629407936471">
+      <img src="/public/images/alley10.png">
       <figcaption>Alley (marking factor 10)</figcaption>
     </figure>
 </div>

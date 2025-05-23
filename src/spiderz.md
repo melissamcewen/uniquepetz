@@ -8,7 +8,7 @@ title: Spiderz
 
 My Spiderz for Petz are loosely based on the popular cartoon, Lucas the Spider. They are a bit different from traditional hexed breeds because they are not meant to be used in a breedfile. Instead, I recommend using the [Spider Kit](https://github.com/melissamcewen/spiderz/) to hex/brex your own.
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-06-11%20at%2014.32.43.gif?v=1623440298804)
+![](/public/images/CleanShot%202021-06-11%20at%2014.32.43.gif)
 
 If you just want a spider to play with, here is Lucas. He's a brexed cat so if you try to breed him you'll just get regular kiteens.
 

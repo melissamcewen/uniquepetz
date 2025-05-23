@@ -6,7 +6,7 @@ title: P5 Catz Reimagined!
 ---
 # P5 Catz Reimagined
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fp5catz.png?v=1628454024351 2x">
+<img srcset="/public/images/p5catz.png 2x">
 
 
 I quite like many of the Petz 5 Catz breeds, so for this part of the project, I mainly just genexed out some traits that I prefer not to breed with. This has an advantage in that you don't have to worry about whether your breed files in use are "fixed" or not, because these don't carry the traits that usually need to be fixed like:

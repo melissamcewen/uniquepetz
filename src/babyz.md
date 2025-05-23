@@ -10,14 +10,14 @@ I didn't have Babyz when I was a kid so I decided to try it out recently. I hexe
 ## Bonzi Baby
 This is supposed to look like Bonzi Buddy, a piece of crapwhere from the same era as Babyz. I wanted to make the feet more gorilla-like but gave up. You're welcome to finish Bonzi Baby for me. 
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbabyz91.png?v=1626933338750)
+![](/public/images/babyz91.png)
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FBonzi.baby?v=1626933324781)
+[Download](/public/downloads/Bonzi.baby)
 
 ## David
 I tried to make the baby from Eraserhead. The whole file is a mess but you're welcome to adopt this poor creature or finish it. 
 
-<video autoplay loop muted playsinline><source src='https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-07-18%20at%2021.28.07.mp4?v=1626933437508' type='video/mp4'></video>
+<video autoplay loop muted playsinline><source src='/public/videos/CleanShot%202021-07-18%20at%2021.28.07.mp4' type='video/mp4'></video>
 
 
-[Download](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FDavid3.baby?v=1626936052128)
+[Download](/public/downloads/David3.baby)

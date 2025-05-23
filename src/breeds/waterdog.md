@@ -25,9 +25,9 @@ title: Portuguese Water Dog
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwaterdog.png?v=1629160795887">
+      <img src="/public/images/waterdog.png">
       <figcaption> Black<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwaterdog-black.zip?v=1629160839253">Download Pair</a></figcaption>
+       <a href="/public/downloads/waterdog-black.zip">Download Pair</a></figcaption>
     </figure>
   </div>
 

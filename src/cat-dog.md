@@ -21,4 +21,4 @@ The steps are
 - voila! a tabby poodle, but it doesn't look right so you'll need to brex
 - you can optionally remove the tabby gene from the final brex so you don't have to worry about it when breeding
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffifitabby.png?v=1623531902699)
+![](/public/images/fifitabby.png)

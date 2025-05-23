@@ -9,7 +9,7 @@ Looks a bit like a squirrel huh? Chinchilla persian based, but I hexed their per
 
 Uses the Desert Lynx ears so you'll need that breedfile for P3/4
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FSquirrel.png?v=1629340534059 2x">
+<img srcset="/public/images/Squirrel.png 2x">
 
 
-[Download breeding pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsql.zip?v=1629340610080)
+[Download breeding pair](/public/downloads/sql.zip)

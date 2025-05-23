@@ -11,6 +11,6 @@ title: Mad Science- Genex Info
 
 The process I use for creating genexed litters is I take AC petz and insert the desired genes. The petz will look the same but their genes will look totally different. The magic happens when you breed them:
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgenexinfo.png?v=1624135412109)
+![](/public/images/genexinfo.png)
 
 The offspring will expressed the edited genes in fun and unique ways. Unlike traditional hexed petz, they will "breed true" without any overwrites in. 

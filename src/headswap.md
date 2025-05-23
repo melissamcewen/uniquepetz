@@ -11,7 +11,7 @@ Using Genexes to swap breed heads
 ## Persian
 The party pack literally no one asked for. A pack of catz that are all persian except for their heads. I did all original P4 breeds + 2 P5 breeds (Honey Bear & Scottish Fold). Use for breeding, brexing, and hexing projects. The BWS one has a mutation but I'm too lazy to redo it.
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpartypersian.png?v=1625613982018 2x">
+<img srcset="/public/images/partypersian.png 2x">
 
 
 [Download ZIP](/public/downloads/persian-swap.zip?v=1625613955522)
@@ -19,7 +19,7 @@ The party pack literally no one asked for. A pack of catz that are all persian e
 ## Sheepdog
 All the original breeds plus a pug (using Kizmet OW) + a pig (no breed files needed)
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsheepdog-party.png?v=1625615782614
+<img srcset="/public/images/sheepdog-party.png
  2x">
 
 
@@ -28,7 +28,7 @@ All the original breeds plus a pug (using Kizmet OW) + a pig (no breed files nee
 ## Dachshund
 All the original breeds plus three p5 breeds (Kizmet OWs used, will need breedfiles for P4) + a pig (no breed files needed)
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fdach-head-swap.png?v=1625618445190
+<img srcset="/public/images/dach-head-swap.png
  2x">
 
 

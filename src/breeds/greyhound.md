@@ -27,9 +27,9 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound.png?v=1625354742349" >
+      <img src="/public/images/greyhound.png" >
       <figcaption> Dusty (125) + brown (92) eyes <br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgreyhound.zip?v=1628641955920">Download pair</a></figcaption>
+       <a href="/public/downloads/greyhound.zip">Download pair</a></figcaption>
     </figure>
   </div>
 

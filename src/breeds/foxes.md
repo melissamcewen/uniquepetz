@@ -9,7 +9,7 @@ I wanted to see how close I could get to a "fox" using genexing. This was also t
 
 Both use P5 breeds. The Catz has Egyptian Mau ears and the Dogz has a GSD face, so if you're using P3/4 you'll need those breed files.
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ffoxes.png?v=1629161667992 2x">
+<img srcset="/public/images/foxes.png 2x">
 
 
 [Download catz version](/public/downloads/fox-cat.zip?v=1629161719813)

@@ -9,7 +9,7 @@ Leg extension is a value both in the lnz and in the pet file's look chromosome. 
 
 Here is a normal dali bred with different leg extensions
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flegextension.png?v=1628440338036 2x">
+<img srcset="/public/images/legextension.png 2x">
 
 Shortest: I used `64 FF FF FF` in the hex editor which "translates" to -156 in Gene Poolz. This leads to a dali with a `4 0` extension in the lnz.
 

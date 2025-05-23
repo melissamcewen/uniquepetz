@@ -25,7 +25,7 @@ title: Basset Hound
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fbass.png?v=1629161040709">
+      <img src="/public/images/bass.png">
       <figcaption> Black and tan (Agouti dachshund coat)<br/>
        <a href="/public/downloads/basset-bt.zip?v=1629161093817">Download Pair</a></figcaption>
     </figure>

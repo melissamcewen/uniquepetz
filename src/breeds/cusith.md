@@ -12,6 +12,6 @@ These were created circa 2002/2003 in Petz 5\. I backported them to Petz 4 recen
 
 > "The Cusith is my third selective breed. I know Floppies/Hounds have been around for awhile, but as far as I know have never been done as a formal selective breed and have always been rather difficult to breed. The Cusith is named after an enormous hound of the Scottish Highlands."
 
-![Original Cusith hounds](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFpic.gif?v=1620796440581)
+![Original Cusith hounds](/public/images/Fpic.gif)
 
 [Download](/public/downloads/Cusith.zip)

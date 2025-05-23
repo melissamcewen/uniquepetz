@@ -4,7 +4,9 @@
   "description": "A simple blog, set up with Eleventy.",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "NODE_ENV=production eleventy"
+    "build": "NODE_ENV=production eleventy",
+    "download-assets": "node download_glitch_assets.js",
+    "update-urls": "node update_glitch_urls.js"
   },
   "dependencies": {
     "eleventy-plugin-seo": "^0.5.1",

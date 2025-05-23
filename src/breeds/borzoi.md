@@ -27,21 +27,21 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwhiteborzoi.png?v=1628655501433" >
+      <img src="/public/images/whiteborzoi.png" >
       <figcaption>White<br/>
        <a href="/public/downloads/borzoi-white.zip">Download pair</a></figcaption>
     </figure>
   </div>
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fredborzoi.png?v=1628655512332" >
+      <img src="/public/images/redborzoi.png" >
       <figcaption>Red/white trim<br/>
        <a href="/public/downloads/borzoi-red-white.zip?v=1628655587853">Download pair</a></figcaption>
     </figure>
   </div>
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white-2.png?v=1628657975999" >
+      <img src="/public/images/borzoi-red-white-2.png" >
       <figcaption>Red/white trim variation 2<br/>
        <a href="/public/downloads/borzoi-red-white2.zip?v=1628658011890">Download pair</a></figcaption>
     </figure>
@@ -49,7 +49,7 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fborzoi-red-white-3a.png?v=1628713706246" >
+      <img src="/public/images/borzoi-red-white-3a.png" >
       <figcaption>Red/white trim variation 3 (contains traits from P5 breeds, Pappilon and JRT)<br/>
        <a href="/public/downloads/borzoi-red-white-3.zip?v=1628713738732">Download pair</a></figcaption>
     </figure>

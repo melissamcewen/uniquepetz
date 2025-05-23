@@ -12,7 +12,7 @@ They are personality hexed to be slightly less doglike and also quite naughty an
 
 They should breed true but if you're using a "fixed" GSD OW you might lose the markings.
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ftanuki.png?v=1629327898461 2x">
+<img srcset="/public/images/tanuki.png 2x">
 
 
-[Download breeding pair](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ftanuki.zip?v=1629327972141)
+[Download breeding pair](/public/downloads/tanuki.zip)

@@ -17,7 +17,7 @@ You'll need
 - a hex editor (I use [HXD](https://mh-nexus.de/en/hxd/))
 - PetzByte and GenePoolz by [Reflet](https://reflettage.wixsite.com/yabiko/download)
 - A reference sheet. I have a [Petz Genetics](https://airtable.com/shrMJLBngan9NvSw8) sheet in Airtable that I will be using here. A simpler one is available at [petz genome value reference](https://gyiyg.neocities.org/images/geneticvaluesref.txt).
-- An pet file, if you'd like to use the same file I'm using it's available [download line-4-gen-1-3.pet](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fline-4-gen-1-3.pet?v=1628115007769
+- An pet file, if you'd like to use the same file I'm using it's available [download line-4-gen-1-3.pet](/public/downloads/line-4-gen-1-3.pet)
 
 ## Viewing The File
 [Reflet has a detailed guide to the "looks chromosome"](https://reflettage.wixsite.com/yabiko/breeding-guide). To view it in the same way in HxD, go to the "view" menu and select "byte per row". Change that to "15". 

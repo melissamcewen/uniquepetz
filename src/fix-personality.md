@@ -17,16 +17,16 @@ For this tutorial you'll need teh GDA and a hex editor (I'm using Hex workshop).
 
 I will demo fixing this with a Honey Bear, Honey.pet, adopted from the unibreed in Petz 4. I first copied the file to back it up, and named the backup **Honey - original.pet**
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.26.34%402x.jpg?v=1622343586877)
+![](/public/images/CleanShot%202021-05-29%20at%2017.26.34@2x.jpg)
 
 The GDA shows the glitched personality. Keep the GDA open so you can use it later but I'm also going to write down the numbers from "Kindness", the first non-glitched personality trait. For this pet these are 89 and 13. 
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FScreen%20Shot%202021-05-29%20at%203.18.06%20PM.png?v=1622343477886)
+![](/public/images/Screen%20Shot%202021-05-29%20at%203.18.06%20PM.png)
 
 
-I'll open up the honey.pet file in the hex editor. Here's a quick run down of the parts of the program we'll be using and what they are called ([see larger version](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2022.03.55%402x.jpg?v=1622343948973)). 
+I'll open up the honey.pet file in the hex editor. Here's a quick run down of the parts of the program we'll be using and what they are called ([see larger version](/public/images/CleanShot%202021-05-29%20at%2022.03.55@2x.jpg)). 
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2022.03.55%402x.jpg?v=1622343948973)
+![](/public/images/CleanShot%202021-05-29%20at%2022.03.55@2x.jpg)
 
 
 Remember those numbers from the GDA? The first one is 89. We need to find this number in the file. But differently...because it won't be stored as 89, it will be stored as a hexadecimal (hex) number, which works a little differently.
@@ -34,14 +34,14 @@ There are lots of converters out there but I really like [rapidtables decimal to
 
 Turns out 89 = 59 in hex. We'll use that to find where the personality numbers are. Go to the Edit menu and select Find (or use CTRL-F). Select "Hex Values" for type. The pattern here is to convert both numbers to hex and there will be `00 00 00` between them so search for `59 00 00 00 0D `
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.43.04%402x.jpg?v=1622344942648)
+![](/public/images/CleanShot%202021-05-29%20at%2017.43.04@2x.jpg)
 
 The other personality values are somewhere above this. I know one of the glitched values I want to change is 50. **50 converted to hex is 32**
 
 So I'm going to look for a 32 above it in the hex area. I find one here. 
 
-!(https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.45.25%402x.jpg?v=1622344745624)
-[expand image](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.45.25%402x.jpg?v=1622344745624)
+!(/public/images/CleanShot%202021-05-29%20at%2017.45.25@2x.jpg
+[expand image](/public/images/CleanShot%202021-05-29%20at%2017.45.25@2x.jpg)
 
 Now it's important I do the edit on the hex and not on the ascii side because it won't make sense there. 
 
@@ -61,7 +61,7 @@ I'm going to pick 36. BUT first I need to convert to hex.
 
 I change the number from 32 to 24 in the hex section. Save, now run honey through GDA. If I was successful it should show 36 in the GDA.
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2017.48.48%402x.jpg?v=1622345026534)
+![](/public/images/CleanShot%202021-05-29%20at%2017.48.48@2x.jpg)
 
 
 Count three sets of 00s from the number you just changed. This should be the next patience value. 
@@ -70,7 +70,7 @@ I'm going to pick the number 78 for the next value.
 
 78 converted to hex is **4E**. So I change that 00 to 4E.
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-29%20at%2022.27.41%402x.jpg?v=1622345290177)
+![](/public/images/CleanShot%202021-05-29%20at%2022.27.41@2x.jpg)
 
 Then I check with GDA to confirm the change.
 

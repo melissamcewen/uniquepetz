@@ -10,7 +10,7 @@ I really like the face of the P5 German Shepherd and it's not particularly easy 
 ### V1: GSDZ
 This is a selective breed with some genexing. It really doesn't look much like a real German Shepherd LOL but this is as close as I could come with the original breeds.
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdz.png?v=1628383769218 2x">
+<img srcset="/public/images/gsdz.png 2x">
 
 - Scales: 135 (lab)
 - Ears: Chihuahua
@@ -26,7 +26,7 @@ This is a selective breed with some genexing. It really doesn't look much like a
 ### V2: German Shepherd v2
 This is the P5 German Shepherd with parts from a few other breeds. I quite like this especially for breeding as I'm not fond of the German Shepherd ears on other breeds for example. This breed is low gen and completely genexed. Requires the German Shepherd breed in Petz 3/4.
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdre.png?v=1628383890420 2x">
+<img srcset="/public/images/gsdre.png 2x">
 
 - Ears: Chihuahua
 - Body: Labrador
@@ -40,7 +40,7 @@ This is the P5 German Shepherd with parts from a few other breeds. I quite like 
 ## V3: GSDZ with P5 Face
 If you want the GSD face without the breeding chaos of the GSD markings/coat (which can mutate very strangely), this pair is useful!
 
-<img srcset="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgsdface.png?v=1628392941471 2x">
+<img srcset="/public/images/gsdface.png 2x">
 
 
 [Download](/public/downloads/gsd-v3.zip?v=1628392934473)

@@ -27,9 +27,9 @@ These can be bred selectively but all the dogz on this page have been [genexed](
 
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwolfhound.png?v=1628656101392" >
+      <img src="/public/images/wolfhound.png" >
       <figcaption>Gray<br/>
-       <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fwolfhound-grey.zip?v=1628656076503">Download pair</a></figcaption>
+       <a href="/public/downloads/wolfhound-grey.zip">Download pair</a></figcaption>
     </figure>
   </div>
 </div>

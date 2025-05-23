@@ -5,60 +5,60 @@ category: landing
 title: Links
 
 buttonList:
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fgondwana.png?v=1624822736225
+  - img: /public/images/gondwana.png
     url: https://gyiyg.neocities.org/
     description: awesome breeds, guides
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fcremelobanner.png?v=1633056463395
+  - img: /public/images/cremelobanner.png
     url: https://cremelo.funfetti.net/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fmazzewbutton.png?v=1624822865724
+  - img: /public/images/mazzewbutton.png
     url: https://mazzew.neocities.org/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fac1.png?v=1624822964898
+  - img: /public/images/ac1.png
     url: http://kutheraver.com/acidtrip/ 
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flink_cargo4.png?v=1624823159528
+  - img: /public/images/link_cargo4.png
     url: https://cargo-petz.neocities.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetzcape.gif?v=1624823294295
+  - img: /public/images/petzcape.gif
     url: https://petzcape.neocities.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FChimes_pic_Gay.png?v=1624823676045
+  - img: /public/images/Chimes_pic_Gay.png
     url: https://chimes.neocities.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Foshiebminibanner-darktext_orig.png?v=1624824206420
+  - img: /public/images/oshiebminibanner-darktext_orig.png
     url: https://silverfish-swallowtail.weebly.com/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2F2c6e93_9046811006d24fd9a29680625e66771f~mv2.gif?v=1624824548279
+  - img: /public/images/2c6e93_9046811006d24fd9a29680625e66771f~mv2.gif
     url: https://www.medusakennels.com/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FLinkToUs.gif?v=1624824616064
+  - img: /public/images/LinkToUs.gif
     url: http://petaldustpetz.weebly.com
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Ftumblr_inline_ql0m9sTrKY1xrjmg5_500.png?v=1624824701618
+  - img: /public/images/tumblr_inline_ql0m9sTrKY1xrjmg5_500.png
     url: https://crushingpetz.tumblr.com
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flinkbanner1.png?v=1624824995983
+  - img: /public/images/linkbanner1.png
     url: https://lida.rainbow-muffin.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Freverie.png?v=1624825388696
+  - img: /public/images/reverie.png
     url: http://jewellz.net
     description: Fixed petz 5 breeds
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCorruptedKibblesLink4.png?v=1624825682730
+  - img: /public/images/CorruptedKibblesLink4.png
     url: https://corruptedkibbles.neocities.org/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FpfPWY0s3_o.png?v=1624825705838
+  - img: /public/images/pfPWY0s3_o.png
     url: https://baddeath.neocities.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flinkbanner1-2.png?v=1624826021307
+  - img: /public/images/linkbanner1-2.png
     url: https://andi.rainbow-muffin.org
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FFDECDA2D-C06B-4256-8F5C-05B57EF3D663.gif?v=1624826087321
+  - img: /public/images/FDECDA2D-C06B-4256-8F5C-05B57EF3D663.gif
     url: https://lunarlexpetz.weebly.com/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flinkbanner3.png?v=1624826389964
+  - img: /public/images/linkbanner3.png
     url: http://homebody.eu/lf/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FLKCcliquey.png?v=1624835626975
+  - img: /public/images/LKCcliquey.png
     url: http://kiralyikuvaszok.com/leashykitty/leashysite.html
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpsd-link.gif?v=1624838263896
+  - img: /public/images/psd-link.gif
     url: https://fantazzled.com/directory/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Foasis2.gif?v=1624838288549
+  - img: /public/images/oasis2.gif
     url: http://www.oasis.fantazzled.com/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Flink.jpg?v=1627868730789
+  - img: /public/images/link.jpg
     url: http://www.rhococo.com/rhopetz/
-  - img: https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FcliquePink.png?v=1630864231663
+  - img: /public/images/cliquePink.png
     url: https://ri96y.neocities.org/
 ---
 
 
 Feel free to link Unique Petz with this button!
 
-<img class="non-responsive" src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+<img class="non-responsive" src="/public/images/Button.png">
 
 If you'd like me to link you contact me on Discord MelissaM#6608. If you'd hate me to link you, I can remove it :(
 

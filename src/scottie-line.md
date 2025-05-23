@@ -40,7 +40,7 @@ Brexed to be brindle.
 ## Stamp:
 If you've adopted a scottie from me feel free to use this stamp:
 
-<img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fscottiestamp.png?v=1626547621739" class="pixel">
+<img src="/public/images/scottiestamp.png" class="pixel">
 
 I would appreciate if you'd link back to this page
 

@@ -9,7 +9,7 @@ title: Clothing
 Petz 4 unless specified otherwise.
 
 ## Spider Costume
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FAnimation2.gif?v=1632420683818)
+![](/public/images/Animation2.gif)
 
 In three parts (eyes, fangs, and body). For Halloween spookiness!
 
@@ -19,6 +19,6 @@ In three parts (eyes, fangs, and body). For Halloween spookiness!
 ## Oshalope Horns
 Are your petz jealous of the trendy Oshalope, an orange shorthair with horns? Well now they can have their own! Created by Alexzander@Watervale and turned into clothing by me.
 
-![](https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz98.png?v=1627006966717)
+![](/public/images/petz98.png)
 
 [Download](/public/downloads/oshalope.zip)

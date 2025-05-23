@@ -25,9 +25,9 @@ I thought it might be fun to try to replicate IRL breeds with the original PF Ma
   
   <div>
     <figure>
-      <img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fitalian-brown-eyes.png?v=1625352859794" >
+      <img src="/public/images/italian-brown-eyes.png" >
       <figcaption> Dusty (125) + brown eyes <br/>
-      <a href="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fitalian-greyhound-125-94.zip?v=1625352930853">Breeding pair</a></figcaption>
+      <a href="/public/downloads/italian-greyhound-125-94.zip">Breeding pair</a></figcaption>
     </figure>
   </div>
   

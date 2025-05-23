@@ -4,9 +4,9 @@ layout: layouts/home.njk
 
 # Unique Petz
 
-<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fjuly-stamp-ref-4.png?v=1626587519358" class="pixel img-right desktop-image"></a>
+<a href="/hannah"><img src="/public/images/july-stamp-ref-4.png" class="pixel img-right desktop-image"></a>
 
-<a href="/hannah"><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fhannah.png?v=1626587835435" class="pixel img-right mobile-image"></a>
+<a href="/hannah"><img src="/public/images/hannah.png" class="pixel img-right mobile-image"></a>
 
 Welcome! This is a site about the Petz games created by P.F. Magic in
 the late 90s/early 2000s. I first created Unique Petz around 2001 and reopened it in 2021.

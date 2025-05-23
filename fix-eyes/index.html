@@ -22,14 +22,14 @@
 
 <meta property="og:url" content="https://uniquepetz.spellwork.dev//fix-eyes/">
 <meta property="og:description" content="A vintage Petz 4 Site">
-<meta property="og:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+<meta property="og:image" content="/public/images/Button.png">
 
 <meta name="twitter:card" content="summary">
 
 <meta name="twitter:url" content="https://uniquepetz.spellwork.dev//fix-eyes/">
 <meta name="twitter:title" content="Fixing Too-Small .pet Eyes - Unique Petz">
 <meta name="twitter:description" content="A vintage Petz 4 Site">
-<meta name="twitter:image" content="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FButton.png?v=1624822653337">
+<meta name="twitter:image" content="/public/images/Button.png">
 
 
   </head>
@@ -78,34 +78,34 @@
 <article>
     <h1>Fixing Too-Small .pet Eyes</h1>
 <p>So here's a common issue I encounter, especially if the pet is small but has a head from a larger breed (Dane, Lab etc.). See this little guy? Really cute as a puppy:</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz229.png?v=1622146111858" alt="cute puppy"></p>
+<p><img src="/public/images/petz229.png" alt="cute puppy"></p>
 <p>But as an adult... his eyes look super beady!</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fsmoleyes.png?v=1623436301280" alt="beady eyes dog"></p>
+<p><img src="/public/images/smoleyes.png" alt="beady eyes dog"></p>
 <p>Luckily we can fix it with <a href="https://www.sherlocksoftware.org/page.php?id=14">LnzPro</a>. Someone told me how to do this on Petzcord, whoever you are, thank you!</p>
 <aside>Back up your .pet file before you do this! Probably nothing bad will happen but there is a small chance you'll mess up the file.</aside>
 <h2>Step 1: Open the &quot;adult&quot; lnz file in LnzPro</h2>
 <p>The LNZ is part of the .pet file that determines appearance. Open the .pet file in Lnz Pro. There is a menu on the left side. One section of this menu should say &quot;Lnz&quot;. Click it and open up and you'll see two sub-files. &quot;Child&quot; and &quot;Adult&quot;. The &quot;Adult&quot; one is the one we'll be editing.</p>
 <h2>Step 2: Finding Ballz Info</h2>
 <p>Scroll down until you get to a section called &quot;Ballz Info&quot;. This contains information about all the Ballz that make up the pet. Each ball has a number that corresponds to a body part. A key thing to remember is the first ball is <em>ball 0</em> not ball 1.</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-27%20at%2015.02.44%402x.jpg?v=1622146289401" alt="screenshot of the file"></p>
+<p><img src="/public/images/CleanShot%202021-05-27%20at%2015.02.44@2x.jpg" alt="screenshot of the file"></p>
 <h2>Step 3: Finding the eye ballz</h2>
 <p>Now you're going to want to look up which number ball corresponds to the eyes. In LnzPro there a list on the help file, you'll find it under &quot;General Editing Information&quot;. The ball numbers are different for Dogz and Catz so make sure you're looking at the right list.</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-27%20at%2015.03.26%402x.jpg?v=1622146521202" alt="screenshot of help"></p>
+<p><img src="/public/images/CleanShot%202021-05-27%20at%2015.03.26@2x.jpg" alt="screenshot of help"></p>
 <p>So we see that L Eye = ball number 8. Let's start with that.</p>
 <h2>Step 4: Editing the L eye ball size</h2>
 <p>OK back to our Lnz file, you'll need to count down to find ball eight. Remember, the first line is ball 0. One thing that might be helpful is using the line numbers.</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-27%20at%2015.04.13%402x.jpg?v=1622146671063" alt="eye ball"></p>
+<p><img src="/public/images/CleanShot%202021-05-27%20at%2015.04.13@2x.jpg" alt="eye ball"></p>
 <p>For Ballz info, each value has spaces between it. The size is the sixth value. here you can see it's -10. I'm going to change that to 0, save, and see what happens when I open the game.</p>
 <p>Unfortunately it looks a little too big!</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz231.png?v=1622146791088" alt="eye too big"></p>
+<p><img src="/public/images/petz231.png" alt="eye too big"></p>
 <p>So I close the game and go back to LnzPro. I change it to -5, save, and reopen the game.</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz232.png?v=1622146864193" alt="eye just right"></p>
+<p><img src="/public/images/petz232.png" alt="eye just right"></p>
 <p>That looks great! Now I just need to edit the right eye ball to look the same</p>
 <h2>Step 5: Editing the R eye ball size</h2>
 <p>The help files show that the R eye ball is ball number 32. LnzPro shows the line numbers next to the file.</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2FCleanShot%202021-05-27%20at%2015.23.36%402x.jpg?v=1622147041294" alt="line numbers"></p>
+<p><img src="/public/images/CleanShot%202021-05-27%20at%2015.23.36@2x.jpg" alt="line numbers"></p>
 <p>So if line 306 is ball 0, I can add 32 + 306 to 338. And scroll down to the 338 line number to find ball 32, which is the R eye. I now change the -10 there to -5 so the eyes are the same size. I save and open the game and voila!</p>
-<p><img src="https://cdn.glitch.com/e8c48446-7221-44a1-aabd-d809cd1d1e34%2Fpetz234.png?v=1622147163645" alt="eyes fixed"></p>
+<p><img src="/public/images/petz234.png" alt="eyes fixed"></p>
 <p>Eye think this dog looks much better! You can also try decreasing the iris sizes if you want to make the eyes look better without making them bigger, but I usually find that doesn't work well for small dogs.</p>
 
 </article>
